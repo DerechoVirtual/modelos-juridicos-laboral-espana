@@ -39,55 +39,22 @@ El resultado es un borrador para que lo revise un profesional antes de presentar
 
 ## Antes de empezar
 
-- **Dónde funciona:** en Claude Code, en la terminal o en la pestaña Code de la app de Claude. Desde esta carpeta no se puede instalar en el chat ni en Cowork: para eso habría que publicarlo en un repositorio de GitHub.
+- **Dónde funciona:** en Claude Code y en Claude (web, escritorio y Cowork).
 - **Jurisprudenciator es imprescindible:** el plugin trae el conector y cada skill trabaja siempre con él, igual que los plugins de Jurisprudenciator del directorio de Claude. Sin una cuenta de Jurisprudenciator conectada, las skills se paran y no redactan nada. La primera vez hay que iniciar sesión (en Claude Code, con `/mcp`; o con tu URL personal: https://jurisprudenciator.lexiaipro.org/instalacion). Si ya tienes Jurisprudenciator conectado en Claude, las skills usan ese.
-- **Espacio que ocupa:** unos 1.000 tokens en cada conversación mientras esté activado, porque Claude lleva en memoria la descripción de cada skill. Activa solo los plugins que vayas a usar; los demás puedes desactivarlos sin desinstalarlos (`claude plugin disable modelos-control-empresarial-y-datos-espana@plugins-dv`).
+- **Espacio que ocupa:** unos 1.000 tokens en cada conversación mientras esté activado, porque Claude lleva en memoria la descripción de cada skill. Activa solo los plugins que vayas a usar; los demás puedes desactivarlos sin desinstalarlos (`claude plugin disable modelos-control-empresarial-y-datos-espana@modelos-juridicos-laboral-espana`).
 
 ## Instalación
 
-Solo la primera vez, añade el catálogo de plugins (sirve para todos). Cambia la ruta por la carpeta donde esté el catálogo (la que contiene `.claude-plugin`); si es un zip, descomprímelo antes en una ruta corta, porque hay nombres de archivo largos:
+**En Claude Code**, añade una vez el catálogo de este repositorio y después instala el plugin:
 
 ```bash
-claude plugin marketplace add "C:\plugins-dv"
+claude plugin marketplace add DerechoVirtual/modelos-juridicos-laboral-espana
+claude plugin install modelos-control-empresarial-y-datos-espana@modelos-juridicos-laboral-espana
 ```
 
-Después, instala este plugin:
+Al terminar, abre una conversación nueva para que aparezcan sus skills.
 
-```bash
-claude plugin install modelos-control-empresarial-y-datos-espana@plugins-dv
-```
-
-En la pestaña Code de la app de Claude también puedes pedírselo a Claude con esas palabras: «instala el plugin modelos-control-empresarial-y-datos-espana del catálogo plugins-dv que está en C:\plugins-dv». Al terminar, abre una conversación nueva para que aparezcan sus skills.
-
-## Lista de formularios
-
-Para usar uno directamente: `/modelos-control-empresarial-y-datos-espana:<skill>`.
-
-### Contratos, cláusulas y anexos (4)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 172 | Protección de datos en contratos de trabajo: cláusula | 2020 | `proteccion-datos-contratos-trabajo-clausula-172` |
-| 173 | Confidencialidad, control de medios y desconexión digital: cláusula | 2020 | `confidencialidad-control-medios-desconexion-digital-173` |
-| 251 | Protección de datos en contratos con empresa subcontratista: cláusula | 2018 | `proteccion-datos-contratos-empresa-subcontratista-251` |
-| 252 | Información sobre protección de datos en la geolocalización: cláusula | 2018 | `informacion-sobre-proteccion-datos-geolocalizacion-252` |
-
-### Cartas y comunicaciones a la plantilla (3)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 223 | Aviso emergente sobre el uso laboral de los medios de la empresa | 2019 | `aviso-emergente-sobre-uso-laboral-medios-empresa-223` |
-| 253 | Instalación de cámaras de videovigilancia: aviso a la representación de los trabajadores | 2018 | `instalacion-camaras-videovigilancia-aviso-representacion-253` |
-| 376 | Aviso al trabajador de videovigilancia, control de jornada o geolocalización | 2016 | `aviso-trabajador-videovigilancia-control-jornada-376` |
-
-### Actas, acuerdos, planes y protocolos (4)
-
-| Nº | Formulario | Año | Skill |
-|---|---|---|---|
-| 222 | Información sobre protección de datos a los empleados | 2019 | `informacion-sobre-proteccion-datos-empleados-222` |
-| 232 | Código de conducta en la relación empresa-trabajador | 2019 | `codigo-conducta-relacion-empresa-trabajador-232` |
-| 233 | Vestimenta en la empresa: código | 2019 | `vestimenta-empresa-codigo-233` |
-| 239 | Normas de uso del sistema informático y las comunicaciones electrónicas | 2019 | `normas-uso-sistema-informatico-comunicaciones-239` |
+**En Claude (web y escritorio)** también puedes subirlo como ZIP desde **Personalizar → Plugins**. El ZIP de este plugin está en la página de versiones del repositorio: https://github.com/DerechoVirtual/modelos-juridicos-laboral-espana/releases/latest
 
 ## Qué hay dentro de cada skill
 
