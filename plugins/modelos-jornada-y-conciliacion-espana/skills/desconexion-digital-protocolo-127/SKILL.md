@@ -5,7 +5,7 @@ description: "Redacta el escrito «Desconexión digital: protocolo» (formulario
 
 # Desconexión digital: protocolo
 
-> Formulario 0127 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0127 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

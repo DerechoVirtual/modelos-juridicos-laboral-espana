@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mecanismo RED: petición de la empresa para c
 
 # Mecanismo RED: petición de la empresa para constituir la comisión negociadora
 
-> Formulario 0064 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0064 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

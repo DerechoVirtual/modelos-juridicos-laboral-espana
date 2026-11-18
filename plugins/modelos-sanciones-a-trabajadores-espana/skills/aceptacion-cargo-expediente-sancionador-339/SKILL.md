@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aceptación del cargo en el expediente sancio
 
 # Aceptación del cargo en el expediente sancionador
 
-> Formulario 0339 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0339 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

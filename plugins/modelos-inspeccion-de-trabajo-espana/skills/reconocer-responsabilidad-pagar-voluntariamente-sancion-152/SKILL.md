@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reconocer la responsabilidad y pagar voluntar
 
 # Reconocer la responsabilidad y pagar voluntariamente la sanción de la Inspección
 
-> Formulario 0152 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0152 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

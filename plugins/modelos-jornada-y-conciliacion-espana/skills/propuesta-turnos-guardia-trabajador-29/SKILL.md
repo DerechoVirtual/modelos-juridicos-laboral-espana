@@ -5,7 +5,7 @@ description: "Redacta el escrito «Propuesta de turnos de guardia al trabajador�
 
 # Propuesta de turnos de guardia al trabajador
 
-> Formulario 0029 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0029 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

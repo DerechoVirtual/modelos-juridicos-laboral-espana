@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato de trabajo de pescadores (en gallego
 
 # Contrato de trabajo de pescadores (en gallego)
 
-> Formulario 0071 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0071 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reclamación de cantidad: demanda» (formular
 
 # Reclamación de cantidad: demanda
 
-> Formulario 0371 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0371 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

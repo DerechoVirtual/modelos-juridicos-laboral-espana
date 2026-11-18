@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mecanismo RED: acuerdo comunicado a la autori
 
 # Mecanismo RED: acuerdo comunicado a la autoridad laboral
 
-> Formulario 0058 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0058 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

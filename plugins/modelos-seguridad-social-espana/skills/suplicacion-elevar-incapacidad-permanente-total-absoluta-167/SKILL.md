@@ -5,7 +5,7 @@ description: "Redacta el escrito «Suplicación para elevar la incapacidad perma
 
 # Suplicación para elevar la incapacidad permanente de total a absoluta
 
-> Formulario 0167 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0167 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mecanismo RED: acta de designación de la com
 
 # Mecanismo RED: acta de designación de la comisión ad hoc
 
-> Formulario 0062 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0062 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Registro de jornada diaria» (formulario 361 
 
 # Registro de jornada diaria
 
-> Formulario 0361 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0361 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «ERTE por ETOP: apertura del periodo de consul
 
 # ERTE por ETOP: apertura del periodo de consultas comunicada a los trabajadores
 
-> Formulario 0250 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0250 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

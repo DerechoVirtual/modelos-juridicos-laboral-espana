@@ -5,7 +5,7 @@ description: "Redacta el escrito «Anexo de horas complementarias (contrato a ti
 
 # Anexo de horas complementarias (contrato a tiempo parcial) (en valenciano)
 
-> Formulario 0038 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0038 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

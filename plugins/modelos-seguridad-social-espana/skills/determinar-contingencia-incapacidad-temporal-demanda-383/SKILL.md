@@ -5,7 +5,7 @@ description: "Redacta el escrito «Determinar la contingencia de la incapacidad 
 
 # Determinar la contingencia de la incapacidad temporal: demanda
 
-> Formulario 0383 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0383 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

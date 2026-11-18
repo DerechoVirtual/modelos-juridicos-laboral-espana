@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda a la Mutua por cese de actividad de a
 
 # Demanda a la Mutua por cese de actividad de autónomos por incendios forestales
 
-> Formulario 0012 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0012 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

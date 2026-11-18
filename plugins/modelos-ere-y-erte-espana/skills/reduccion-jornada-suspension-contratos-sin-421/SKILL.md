@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reducción de jornada o suspensión de contra
 
 # Reducción de jornada o suspensión de contratos sin representantes: aviso a todos los trabajadores
 
-> Formulario 0421 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0421 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda a la Mutua por prestación de cese de
 
 # Demanda a la Mutua por prestación de cese de actividad de autónomos
 
-> Formulario 0027 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0027 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

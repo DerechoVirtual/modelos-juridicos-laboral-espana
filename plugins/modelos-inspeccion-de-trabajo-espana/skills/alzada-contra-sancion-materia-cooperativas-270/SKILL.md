@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada contra sanción en materia de cooperat
 
 # Alzada contra sanción en materia de cooperativas
 
-> Formulario 0270 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0270 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

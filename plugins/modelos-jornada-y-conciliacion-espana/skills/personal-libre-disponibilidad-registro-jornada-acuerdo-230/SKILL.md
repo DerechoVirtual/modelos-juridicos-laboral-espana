@@ -5,7 +5,7 @@ description: "Redacta el escrito «Personal de libre disponibilidad y registro d
 
 # Personal de libre disponibilidad y registro de jornada: acuerdo con la representación
 
-> Formulario 0230 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0230 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

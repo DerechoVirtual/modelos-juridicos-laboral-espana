@@ -5,7 +5,7 @@ description: "Redacta el escrito «Conciliación laboral, personal y familiar: d
 
 # Conciliación laboral, personal y familiar: demanda genérica de derechos
 
-> Formulario 0124 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0124 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

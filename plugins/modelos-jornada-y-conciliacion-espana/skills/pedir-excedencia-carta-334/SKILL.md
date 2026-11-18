@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir excedencia: carta» (formulario 334 de 
 
 # Pedir excedencia: carta
 
-> Formulario 0334 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0334 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

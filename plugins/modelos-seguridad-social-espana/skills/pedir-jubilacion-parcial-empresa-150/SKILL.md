@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir jubilación parcial a la empresa» (for
 
 # Pedir jubilación parcial a la empresa
 
-> Formulario 0150 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0150 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

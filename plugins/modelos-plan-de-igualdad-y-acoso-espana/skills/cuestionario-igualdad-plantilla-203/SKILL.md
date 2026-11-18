@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cuestionario de igualdad para la plantilla» 
 
 # Cuestionario de igualdad para la plantilla
 
-> Formulario 0203 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0203 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

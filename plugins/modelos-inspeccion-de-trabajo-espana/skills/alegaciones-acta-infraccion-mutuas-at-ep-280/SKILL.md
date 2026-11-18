@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones al acta de infracción de las Mut
 
 # Alegaciones al acta de infracción de las Mutuas de AT y EP
 
-> Formulario 0280 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0280 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

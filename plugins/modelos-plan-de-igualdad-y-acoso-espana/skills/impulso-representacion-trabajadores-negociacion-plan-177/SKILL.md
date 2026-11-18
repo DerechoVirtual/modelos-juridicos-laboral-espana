@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impulso por la representación de los trabaja
 
 # Impulso por la representación de los trabajadores de la negociación del plan de igualdad
 
-> Formulario 0177 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0177 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

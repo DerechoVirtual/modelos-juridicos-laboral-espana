@@ -5,7 +5,7 @@ description: "Redacta el escrito «Extinción del contrato por edad de jubilaci�
 
 # Extinción del contrato por edad de jubilación: carta de la empresa
 
-> Formulario 0142 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0142 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

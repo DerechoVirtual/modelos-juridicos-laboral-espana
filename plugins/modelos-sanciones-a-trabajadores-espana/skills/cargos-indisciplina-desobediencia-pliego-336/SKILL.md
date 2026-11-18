@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cargos por indisciplina o desobediencia: plie
 
 # Cargos por indisciplina o desobediencia: pliego
 
-> Formulario 0336 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0336 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

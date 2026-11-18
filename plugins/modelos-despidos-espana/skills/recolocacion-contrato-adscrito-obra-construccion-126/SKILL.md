@@ -5,7 +5,7 @@ description: "Redacta el escrito «Recolocación en contrato adscrito a obra de 
 
 # Recolocación en contrato adscrito a obra de construcción: cláusula
 
-> Formulario 0126 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0126 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada por caducidad de las actuaciones de co
 
 # Alzada por caducidad de las actuaciones de comprobación de la Inspección
 
-> Formulario 0263 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0263 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

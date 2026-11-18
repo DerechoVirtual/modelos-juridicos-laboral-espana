@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato de actuación de toreros, novilleros
 
 # Contrato de actuación de toreros, novilleros y rejoneadores
 
-> Formulario 0132 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0132 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Información sobre protección de datos en la
 
 # Información sobre protección de datos en la geolocalización: cláusula
 
-> Formulario 0252 del plugin **Protección de datos y control empresarial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0252 del plugin **Protección de datos y control empresarial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

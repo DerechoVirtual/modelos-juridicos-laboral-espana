@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mecanismo RED: inicio del procedimiento comun
 
 # Mecanismo RED: inicio del procedimiento comunicado a la representación de los trabajadores
 
-> Formulario 0055 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0055 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

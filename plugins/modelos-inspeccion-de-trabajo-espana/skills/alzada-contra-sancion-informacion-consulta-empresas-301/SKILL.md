@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada contra sanción por información y con
 
 # Alzada contra sanción por información y consulta en empresas y grupos de dimensión comunitaria
 
-> Formulario 0301 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0301 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

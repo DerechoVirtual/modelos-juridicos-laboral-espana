@@ -5,7 +5,7 @@ description: "Redacta el escrito «Falso autónomo: demanda de reconocimiento de
 
 # Falso autónomo: demanda de reconocimiento de relación laboral
 
-> Formulario 0117 del plugin **Proceso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0117 del plugin **Proceso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

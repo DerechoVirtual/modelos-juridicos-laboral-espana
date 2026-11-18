@@ -5,7 +5,7 @@ description: "Redacta el escrito «Dimisión o baja voluntaria del trabajador: c
 
 # Dimisión o baja voluntaria del trabajador: carta
 
-> Formulario 0333 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0333 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato formativo de práctica profesional d
 
 # Contrato formativo de práctica profesional del Plan de Recuperación (en valenciano)
 
-> Formulario 0079 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0079 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

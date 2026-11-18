@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resolución del contrato de TRADE: comunicaci
 
 # Resolución del contrato de TRADE: comunicación
 
-> Formulario 0354 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0354 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

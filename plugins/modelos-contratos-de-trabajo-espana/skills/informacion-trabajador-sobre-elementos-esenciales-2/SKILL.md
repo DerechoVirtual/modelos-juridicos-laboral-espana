@@ -5,7 +5,7 @@ description: "Redacta el escrito «Información al trabajador sobre los elemento
 
 # Información al trabajador sobre los elementos esenciales del contrato (en valenciano)
 
-> Formulario 0002 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0002 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

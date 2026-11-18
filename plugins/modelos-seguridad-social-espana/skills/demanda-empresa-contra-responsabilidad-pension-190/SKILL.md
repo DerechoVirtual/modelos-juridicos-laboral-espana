@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de la empresa contra la responsabilid
 
 # Demanda de la empresa contra la responsabilidad por pensión de jubilación en contrato de relevo
 
-> Formulario 0190 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0190 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

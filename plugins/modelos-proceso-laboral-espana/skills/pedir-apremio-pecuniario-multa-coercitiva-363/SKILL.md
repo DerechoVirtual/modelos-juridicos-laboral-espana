@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir apremio pecuniario o multa coercitiva»
 
 # Pedir apremio pecuniario o multa coercitiva
 
-> Formulario 0363 del plugin **Proceso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0363 del plugin **Proceso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

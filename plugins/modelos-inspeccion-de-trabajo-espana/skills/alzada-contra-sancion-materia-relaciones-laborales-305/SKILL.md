@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada contra sanción en materia de relacion
 
 # Alzada contra sanción en materia de relaciones laborales individuales y colectivas
 
-> Formulario 0305 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0305 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Opción tras despido improcedente: escrito de
 
 # Opción tras despido improcedente: escrito de la parte actora o representación
 
-> Formulario 0377 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0377 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

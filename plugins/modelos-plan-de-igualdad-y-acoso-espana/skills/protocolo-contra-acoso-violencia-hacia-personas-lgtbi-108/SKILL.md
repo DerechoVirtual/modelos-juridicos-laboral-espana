@@ -5,7 +5,7 @@ description: "Redacta el escrito «Protocolo contra el acoso y la violencia haci
 
 # Protocolo contra el acoso y la violencia hacia personas LGTBI
 
-> Formulario 0108 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0108 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

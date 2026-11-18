@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cargos por transgresión de la buena fe y abu
 
 # Cargos por transgresión de la buena fe y abuso de confianza: pliego
 
-> Formulario 0330 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0330 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

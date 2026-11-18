@@ -5,7 +5,7 @@ description: "Redacta el escrito «Suspensión del contrato por violencia de gé
 
 # Suspensión del contrato por violencia de género o sexual: carta a la empresa
 
-> Formulario 0130 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0130 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

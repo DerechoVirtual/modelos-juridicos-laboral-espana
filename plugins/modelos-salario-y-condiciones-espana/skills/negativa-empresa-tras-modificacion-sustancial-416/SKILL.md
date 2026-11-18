@@ -5,7 +5,7 @@ description: "Redacta el escrito «Negativa de la empresa tras modificación sus
 
 # Negativa de la empresa tras modificación sustancial de condiciones: resolución
 
-> Formulario 0416 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0416 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

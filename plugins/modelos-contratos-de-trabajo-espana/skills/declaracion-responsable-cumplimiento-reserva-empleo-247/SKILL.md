@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declaración responsable de cumplimiento de l
 
 # Declaración responsable de cumplimiento de la reserva de empleo para personas con discapacidad
 
-> Formulario 0247 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0247 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnar la sanción de Seguridad Social a un
 
 # Impugnar la sanción de Seguridad Social a un empresario: demanda
 
-> Formulario 0345 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0345 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

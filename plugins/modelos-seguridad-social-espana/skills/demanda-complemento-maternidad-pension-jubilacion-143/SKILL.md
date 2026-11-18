@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda por complemento de maternidad en pens
 
 # Demanda por complemento de maternidad en pensión de jubilación contributiva
 
-> Formulario 0143 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0143 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

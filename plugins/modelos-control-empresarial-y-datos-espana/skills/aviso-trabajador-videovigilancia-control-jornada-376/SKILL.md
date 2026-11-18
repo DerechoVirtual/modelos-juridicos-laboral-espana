@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso al trabajador de videovigilancia, contr
 
 # Aviso al trabajador de videovigilancia, control de jornada o geolocalización
 
-> Formulario 0376 del plugin **Protección de datos y control empresarial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0376 del plugin **Protección de datos y control empresarial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

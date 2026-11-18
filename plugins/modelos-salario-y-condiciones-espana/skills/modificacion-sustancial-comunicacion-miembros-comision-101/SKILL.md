@@ -5,7 +5,7 @@ description: "Redacta el escrito «Modificación sustancial: comunicación de lo
 
 # Modificación sustancial: comunicación de los miembros de la comisión negociadora
 
-> Formulario 0101 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0101 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

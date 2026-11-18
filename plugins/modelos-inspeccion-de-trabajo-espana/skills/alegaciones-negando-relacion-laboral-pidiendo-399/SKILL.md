@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones negando la relación laboral y pi
 
 # Alegaciones negando la relación laboral y pidiendo comunicación de oficio (art. 151 LJS)
 
-> Formulario 0399 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0399 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

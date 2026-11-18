@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir información sobre los elementos esenci
 
 # Pedir información sobre los elementos esenciales de la relación laboral
 
-> Formulario 0010 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0010 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

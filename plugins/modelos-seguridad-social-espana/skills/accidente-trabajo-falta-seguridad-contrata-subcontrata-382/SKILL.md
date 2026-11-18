@@ -5,7 +5,7 @@ description: "Redacta el escrito «Accidente de trabajo por falta de seguridad e
 
 # Accidente de trabajo por falta de seguridad en contrata o subcontrata: demanda de indemnización
 
-> Formulario 0382 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0382 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

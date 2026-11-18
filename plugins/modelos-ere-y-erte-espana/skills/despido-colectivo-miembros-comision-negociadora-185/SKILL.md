@@ -5,7 +5,7 @@ description: "Redacta el escrito «Despido colectivo: miembros de la comisión n
 
 # Despido colectivo: miembros de la comisión negociadora comunicados a la empresa
 
-> Formulario 0185 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0185 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

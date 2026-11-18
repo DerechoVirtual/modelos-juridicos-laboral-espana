@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato formativo en alternancia (en valenci
 
 # Contrato formativo en alternancia (en valenciano)
 
-> Formulario 0106 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0106 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

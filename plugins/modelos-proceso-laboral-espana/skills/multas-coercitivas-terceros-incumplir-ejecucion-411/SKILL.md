@@ -5,7 +5,7 @@ description: "Redacta el escrito «Multas coercitivas a terceros por incumplir e
 
 # Multas coercitivas a terceros por incumplir en la ejecución de sentencia laboral: solicitud
 
-> Formulario 0411 del plugin **Proceso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0411 del plugin **Proceso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

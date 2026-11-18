@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acuerdo con la representación de los trabaja
 
 # Acuerdo con la representación de los trabajadores sobre medidas de igualdad LGTBI
 
-> Formulario 0118 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0118 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Suspensión del contrato por nacimiento, adop
 
 # Suspensión del contrato por nacimiento, adopción o acogimiento: carta a la empresa
 
-> Formulario 0131 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0131 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

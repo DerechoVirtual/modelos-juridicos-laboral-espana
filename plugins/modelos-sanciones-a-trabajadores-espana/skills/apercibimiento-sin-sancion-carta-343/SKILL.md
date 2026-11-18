@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apercibimiento sin sanción: carta» (formula
 
 # Apercibimiento sin sanción: carta
 
-> Formulario 0343 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0343 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

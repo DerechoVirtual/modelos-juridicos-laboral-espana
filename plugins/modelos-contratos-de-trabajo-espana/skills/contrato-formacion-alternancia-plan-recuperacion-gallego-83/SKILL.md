@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato de formación en alternancia del Pla
 
 # Contrato de formación en alternancia del Plan de Recuperación (en gallego)
 
-> Formulario 0083 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0083 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

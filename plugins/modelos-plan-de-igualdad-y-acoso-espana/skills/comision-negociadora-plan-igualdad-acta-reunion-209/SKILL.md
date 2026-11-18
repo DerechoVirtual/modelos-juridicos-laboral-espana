@@ -5,7 +5,7 @@ description: "Redacta el escrito «Comisión negociadora del plan de igualdad: a
 
 # Comisión negociadora del plan de igualdad: acta de reunión
 
-> Formulario 0209 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0209 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

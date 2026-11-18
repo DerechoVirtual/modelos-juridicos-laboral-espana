@@ -5,7 +5,7 @@ description: "Redacta el escrito «Disfrute de permiso retribuido: comunicación
 
 # Disfrute de permiso retribuido: comunicación del trabajador
 
-> Formulario 0374 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0374 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

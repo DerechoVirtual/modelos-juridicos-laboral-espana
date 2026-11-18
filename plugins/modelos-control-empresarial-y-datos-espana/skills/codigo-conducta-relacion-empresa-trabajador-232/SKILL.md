@@ -5,7 +5,7 @@ description: "Redacta el escrito «Código de conducta en la relación empresa-t
 
 # Código de conducta en la relación empresa-trabajador
 
-> Formulario 0232 del plugin **Protección de datos y control empresarial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0232 del plugin **Protección de datos y control empresarial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

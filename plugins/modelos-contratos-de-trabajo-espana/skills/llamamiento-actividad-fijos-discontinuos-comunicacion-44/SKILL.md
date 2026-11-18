@@ -5,7 +5,7 @@ description: "Redacta el escrito «Llamamiento a la actividad de fijos discontin
 
 # Llamamiento a la actividad de fijos discontinuos: comunicación (en euskera)
 
-> Formulario 0044 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0044 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

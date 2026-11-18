@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reunión con perspectiva de igualdad: convoca
 
 # Reunión con perspectiva de igualdad: convocatoria
 
-> Formulario 0212 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0212 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

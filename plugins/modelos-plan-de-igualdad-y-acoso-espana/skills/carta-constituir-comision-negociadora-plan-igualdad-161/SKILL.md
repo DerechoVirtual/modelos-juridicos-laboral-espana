@@ -5,7 +5,7 @@ description: "Redacta el escrito «Carta para constituir la comisión negociador
 
 # Carta para constituir la comisión negociadora del plan de igualdad
 
-> Formulario 0161 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0161 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

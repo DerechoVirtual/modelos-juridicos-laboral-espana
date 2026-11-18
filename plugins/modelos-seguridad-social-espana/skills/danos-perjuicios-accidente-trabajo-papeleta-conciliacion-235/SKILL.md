@@ -5,7 +5,7 @@ description: "Redacta el escrito «Daños y perjuicios por accidente de trabajo:
 
 # Daños y perjuicios por accidente de trabajo: papeleta de conciliación
 
-> Formulario 0235 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0235 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

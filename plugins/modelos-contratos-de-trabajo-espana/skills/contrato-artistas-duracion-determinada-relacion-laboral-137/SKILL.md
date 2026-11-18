@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato de artistas de duración determinada
 
 # Contrato de artistas de duración determinada (relación laboral especial)
 
-> Formulario 0137 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0137 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

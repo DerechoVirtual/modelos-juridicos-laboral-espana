@@ -5,7 +5,7 @@ description: "Redacta el escrito «Respuesta de la empresa a suspensión o permi
 
 # Respuesta de la empresa a suspensión o permiso por fallecimiento en incendios forestales
 
-> Formulario 0013 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0013 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

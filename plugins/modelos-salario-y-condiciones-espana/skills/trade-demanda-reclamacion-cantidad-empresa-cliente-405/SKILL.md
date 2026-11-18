@@ -5,7 +5,7 @@ description: "Redacta el escrito «TRADE: demanda de reclamación de cantidad a 
 
 # TRADE: demanda de reclamación de cantidad a la empresa cliente
 
-> Formulario 0405 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0405 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cancelar antecedentes por sanción: comunicac
 
 # Cancelar antecedentes por sanción: comunicación del trabajador
 
-> Formulario 0308 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0308 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

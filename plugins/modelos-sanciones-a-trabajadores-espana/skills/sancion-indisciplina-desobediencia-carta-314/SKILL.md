@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sanción por indisciplina o desobediencia: ca
 
 # Sanción por indisciplina o desobediencia: carta
 
-> Formulario 0314 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0314 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

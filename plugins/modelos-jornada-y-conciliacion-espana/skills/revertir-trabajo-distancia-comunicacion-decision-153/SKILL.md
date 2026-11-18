@@ -5,7 +5,7 @@ description: "Redacta el escrito «Revertir el trabajo a distancia: comunicació
 
 # Revertir el trabajo a distancia: comunicación de la decisión
 
-> Formulario 0153 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0153 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

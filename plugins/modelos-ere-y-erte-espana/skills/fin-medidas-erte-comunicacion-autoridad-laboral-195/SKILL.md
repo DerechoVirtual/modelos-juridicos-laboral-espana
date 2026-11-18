@@ -5,7 +5,7 @@ description: "Redacta el escrito «Fin de las medidas de ERTE: comunicación a l
 
 # Fin de las medidas de ERTE: comunicación a la autoridad laboral
 
-> Formulario 0195 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0195 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

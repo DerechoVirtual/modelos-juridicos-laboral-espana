@@ -5,7 +5,7 @@ description: "Redacta el escrito «Despido improcedente: demanda» (formulario 3
 
 # Despido improcedente: demanda
 
-> Formulario 0370 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0370 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

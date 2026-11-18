@@ -5,7 +5,7 @@ description: "Redacta el escrito «Despido colectivo: acta de constitución de l
 
 # Despido colectivo: acta de constitución de la comisión negociadora
 
-> Formulario 0184 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0184 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

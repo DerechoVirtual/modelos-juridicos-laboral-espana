@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir certificado de silencio administrativo�
 
 # Pedir certificado de silencio administrativo
 
-> Formulario 0358 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0358 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

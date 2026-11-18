@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mecanismo RED: decisión sin acuerdo comunica
 
 # Mecanismo RED: decisión sin acuerdo comunicada a la autoridad laboral
 
-> Formulario 0057 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0057 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

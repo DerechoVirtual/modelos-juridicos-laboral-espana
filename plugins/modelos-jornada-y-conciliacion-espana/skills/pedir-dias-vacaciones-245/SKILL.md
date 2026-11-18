@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir días de vacaciones» (formulario 245 d
 
 # Pedir días de vacaciones
 
-> Formulario 0245 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0245 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

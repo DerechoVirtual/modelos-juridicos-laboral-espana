@@ -5,7 +5,7 @@ description: "Redacta el escrito «Asistencia a formación: hoja de firmas» (fo
 
 # Asistencia a formación: hoja de firmas
 
-> Formulario 0202 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0202 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

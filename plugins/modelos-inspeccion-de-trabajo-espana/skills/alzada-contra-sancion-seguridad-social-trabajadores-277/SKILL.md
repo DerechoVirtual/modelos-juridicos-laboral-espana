@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada contra sanción de Seguridad Social a 
 
 # Alzada contra sanción de Seguridad Social a trabajadores y beneficiarios de prestaciones
 
-> Formulario 0277 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0277 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Citación oficial del Inspector de Trabajo y 
 
 # Citación oficial del Inspector de Trabajo y Seguridad Social
 
-> Formulario 0393 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0393 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Despido colectivo en grupo laboral: nulidad p
 
 # Despido colectivo en grupo laboral: nulidad por tramitarse solo en una empresa
 
-> Formulario 0392 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0392 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

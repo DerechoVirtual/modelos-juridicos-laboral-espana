@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir adaptación de jornada por cuidado de f
 
 # Pedir adaptación de jornada por cuidado de familiares tras la DANA
 
-> Formulario 0020 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0020 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

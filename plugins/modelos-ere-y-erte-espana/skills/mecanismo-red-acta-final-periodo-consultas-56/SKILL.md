@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mecanismo RED: acta final del periodo de cons
 
 # Mecanismo RED: acta final del periodo de consultas
 
-> Formulario 0056 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0056 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

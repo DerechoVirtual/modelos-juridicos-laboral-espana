@@ -5,7 +5,7 @@ description: "Redacta el escrito «Evaluación del Plan de Igualdad: informe» (
 
 # Evaluación del Plan de Igualdad: informe
 
-> Formulario 0050 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0050 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

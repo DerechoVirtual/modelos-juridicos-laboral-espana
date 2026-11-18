@@ -5,7 +5,7 @@ description: "Redacta el escrito «Propuesta de recolocación al trabajador tras
 
 # Propuesta de recolocación al trabajador tras el fin de la obra de construcción
 
-> Formulario 0128 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0128 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

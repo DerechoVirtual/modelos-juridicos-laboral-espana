@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pensión de viudedad del cónyuge separado ju
 
 # Pensión de viudedad del cónyuge separado judicialmente: demanda
 
-> Formulario 0390 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0390 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

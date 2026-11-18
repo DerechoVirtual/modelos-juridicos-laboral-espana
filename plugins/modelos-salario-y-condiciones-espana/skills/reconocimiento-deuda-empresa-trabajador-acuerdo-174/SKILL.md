@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reconocimiento de deuda de la empresa al trab
 
 # Reconocimiento de deuda de la empresa al trabajador: acuerdo
 
-> Formulario 0174 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0174 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acoso laboral (mobbing): demanda por infracci
 
 # Acoso laboral (mobbing): demanda por infracción de la normativa de prevención
 
-> Formulario 0162 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0162 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

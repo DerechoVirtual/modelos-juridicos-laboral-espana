@@ -5,7 +5,7 @@ description: "Redacta el escrito «Incapacidad permanente: demanda genérica» (
 
 # Incapacidad permanente: demanda genérica
 
-> Formulario 0121 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0121 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Baja voluntaria por jubilación: carta del tr
 
 # Baja voluntaria por jubilación: carta del trabajador
 
-> Formulario 0134 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0134 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

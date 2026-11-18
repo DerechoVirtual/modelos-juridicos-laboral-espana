@@ -5,7 +5,7 @@ description: "Redacta el escrito «Certificado de ministro de culto evangélico 
 
 # Certificado de ministro de culto evangélico y tiempo de actividad en España
 
-> Formulario 0007 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0007 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

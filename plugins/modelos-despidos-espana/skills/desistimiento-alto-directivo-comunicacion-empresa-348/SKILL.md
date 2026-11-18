@@ -5,7 +5,7 @@ description: "Redacta el escrito «Desistimiento del alto directivo: comunicaci�
 
 # Desistimiento del alto directivo: comunicación a la empresa
 
-> Formulario 0348 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0348 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

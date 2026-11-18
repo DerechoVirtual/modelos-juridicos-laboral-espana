@@ -5,7 +5,7 @@ description: "Redacta el escrito «Resumen mensual de horas de trabajo: comunica
 
 # Resumen mensual de horas de trabajo: comunicación
 
-> Formulario 0048 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0048 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

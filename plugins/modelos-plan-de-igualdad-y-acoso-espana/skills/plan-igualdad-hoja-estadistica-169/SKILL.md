@@ -5,7 +5,7 @@ description: "Redacta el escrito «Plan de igualdad: hoja estadística» (formul
 
 # Plan de igualdad: hoja estadística
 
-> Formulario 0169 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0169 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

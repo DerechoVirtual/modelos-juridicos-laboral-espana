@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de reunión de la Comisión de seguimien
 
 # Acta de reunión de la Comisión de seguimiento del Plan de Igualdad
 
-> Formulario 0141 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0141 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

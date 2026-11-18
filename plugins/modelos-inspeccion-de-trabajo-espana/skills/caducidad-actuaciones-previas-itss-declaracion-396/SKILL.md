@@ -5,7 +5,7 @@ description: "Redacta el escrito «Caducidad de las actuaciones previas de la IT
 
 # Caducidad de las actuaciones previas de la ITSS: declaración
 
-> Formulario 0396 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0396 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

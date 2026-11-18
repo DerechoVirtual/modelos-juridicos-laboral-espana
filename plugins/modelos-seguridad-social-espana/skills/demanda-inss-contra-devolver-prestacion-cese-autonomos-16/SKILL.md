@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda al INSS contra devolver la prestació
 
 # Demanda al INSS contra devolver la prestación de cese de autónomos en la COVID-19
 
-> Formulario 0016 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0016 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso al trabajador del fin de la excedencia�
 
 # Aviso al trabajador del fin de la excedencia
 
-> Formulario 0242 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0242 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato de personal técnico y auxiliar art�
 
 # Contrato de personal técnico y auxiliar artístico de duración determinada
 
-> Formulario 0138 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0138 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

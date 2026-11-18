@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cargos por faltas de asistencia o puntualidad
 
 # Cargos por faltas de asistencia o puntualidad: pliego
 
-> Formulario 0337 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0337 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

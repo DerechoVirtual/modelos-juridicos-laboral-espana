@@ -5,7 +5,7 @@ description: "Redacta el escrito «Extinción del contrato de artista por incump
 
 # Extinción del contrato de artista por incumplimiento del empresario: demanda
 
-> Formulario 0408 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0408 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

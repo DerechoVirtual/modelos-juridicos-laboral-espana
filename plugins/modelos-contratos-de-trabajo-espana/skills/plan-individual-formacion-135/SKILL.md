@@ -5,7 +5,7 @@ description: "Redacta el escrito «Plan individual de formación» (formulario 1
 
 # Plan individual de formación
 
-> Formulario 0135 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0135 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

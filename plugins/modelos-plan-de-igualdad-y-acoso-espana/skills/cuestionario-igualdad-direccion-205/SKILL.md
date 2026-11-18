@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cuestionario de igualdad para la dirección»
 
 # Cuestionario de igualdad para la dirección
 
-> Formulario 0205 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0205 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

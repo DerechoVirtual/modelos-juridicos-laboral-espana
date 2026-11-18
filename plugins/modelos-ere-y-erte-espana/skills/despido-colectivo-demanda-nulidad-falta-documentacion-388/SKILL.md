@@ -5,7 +5,7 @@ description: "Redacta el escrito «Despido colectivo: demanda de nulidad por fal
 
 # Despido colectivo: demanda de nulidad por falta de documentación
 
-> Formulario 0388 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0388 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Registro de contratos de puesta a disposició
 
 # Registro de contratos de puesta a disposición (CPD)
 
-> Formulario 0386 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0386 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

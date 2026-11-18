@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones al acta de infracción de Segurid
 
 # Alegaciones al acta de infracción de Seguridad Social (trabajadores, beneficiarios y solicitantes)
 
-> Formulario 0279 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0279 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

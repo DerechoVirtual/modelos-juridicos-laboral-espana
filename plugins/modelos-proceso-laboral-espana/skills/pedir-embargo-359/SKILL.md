@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir embargo» (formulario 359 de proceso la
 
 # Pedir embargo
 
-> Formulario 0359 del plugin **Proceso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0359 del plugin **Proceso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

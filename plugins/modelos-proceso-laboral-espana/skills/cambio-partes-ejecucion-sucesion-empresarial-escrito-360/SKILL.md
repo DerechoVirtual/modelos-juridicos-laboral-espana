@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cambio de partes en la ejecución por sucesi�
 
 # Cambio de partes en la ejecución por sucesión empresarial: escrito
 
-> Formulario 0360 del plugin **Proceso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0360 del plugin **Proceso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

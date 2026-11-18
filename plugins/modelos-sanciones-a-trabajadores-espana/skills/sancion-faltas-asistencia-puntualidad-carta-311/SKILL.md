@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sanción por faltas de asistencia o puntualid
 
 # Sanción por faltas de asistencia o puntualidad: carta
 
-> Formulario 0311 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0311 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

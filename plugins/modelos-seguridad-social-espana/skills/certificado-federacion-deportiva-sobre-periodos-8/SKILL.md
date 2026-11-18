@@ -5,7 +5,7 @@ description: "Redacta el escrito «Certificado de la federación deportiva sobre
 
 # Certificado de la federación deportiva sobre periodos de actividad como deportista profesional
 
-> Formulario 0008 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0008 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

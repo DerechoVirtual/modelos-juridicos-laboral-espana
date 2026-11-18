@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ausentarse o reducir jornada: aviso del traba
 
 # Ausentarse o reducir jornada: aviso del trabajador
 
-> Formulario 0347 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0347 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

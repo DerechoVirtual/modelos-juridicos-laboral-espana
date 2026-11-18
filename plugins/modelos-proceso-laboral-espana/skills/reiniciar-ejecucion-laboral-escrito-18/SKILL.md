@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reiniciar la ejecución laboral: escrito» (f
 
 # Reiniciar la ejecución laboral: escrito
 
-> Formulario 0018 del plugin **Proceso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0018 del plugin **Proceso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

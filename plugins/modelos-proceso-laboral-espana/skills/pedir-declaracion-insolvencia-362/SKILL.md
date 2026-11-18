@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir declaración de insolvencia» (formular
 
 # Pedir declaración de insolvencia
 
-> Formulario 0362 del plugin **Proceso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0362 del plugin **Proceso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

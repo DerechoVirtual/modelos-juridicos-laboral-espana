@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato de personal civil de establecimiento
 
 # Contrato de personal civil de establecimientos militares
 
-> Formulario 0415 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0415 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

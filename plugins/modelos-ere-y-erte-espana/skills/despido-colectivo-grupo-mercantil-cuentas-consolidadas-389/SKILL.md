@@ -5,7 +5,7 @@ description: "Redacta el escrito «Despido colectivo en grupo mercantil con cuen
 
 # Despido colectivo en grupo mercantil con cuentas consolidadas: nulidad por falta de documentación
 
-> Formulario 0389 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0389 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

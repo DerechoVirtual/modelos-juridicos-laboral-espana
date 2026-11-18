@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ingreso mínimo vital denegado: demanda al IN
 
 # Ingreso mínimo vital denegado: demanda al INSS
 
-> Formulario 0154 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0154 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Negativa a la subrogación empresarial: deman
 
 # Negativa a la subrogación empresarial: demanda de extinción del trabajador
 
-> Formulario 0407 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0407 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Instalación de cámaras de videovigilancia: 
 
 # Instalación de cámaras de videovigilancia: aviso a la representación de los trabajadores
 
-> Formulario 0253 del plugin **Protección de datos y control empresarial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0253 del plugin **Protección de datos y control empresarial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

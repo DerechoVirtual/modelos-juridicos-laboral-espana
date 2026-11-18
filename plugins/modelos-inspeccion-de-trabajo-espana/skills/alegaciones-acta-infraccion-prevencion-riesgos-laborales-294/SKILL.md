@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones al acta de infracción de prevenc
 
 # Alegaciones al acta de infracción de prevención de riesgos laborales
 
-> Formulario 0294 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0294 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

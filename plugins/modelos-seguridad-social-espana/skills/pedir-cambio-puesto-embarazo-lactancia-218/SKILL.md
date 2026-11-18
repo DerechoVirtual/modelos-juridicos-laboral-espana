@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir cambio de puesto por embarazo o lactanc
 
 # Pedir cambio de puesto por embarazo o lactancia
 
-> Formulario 0218 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0218 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

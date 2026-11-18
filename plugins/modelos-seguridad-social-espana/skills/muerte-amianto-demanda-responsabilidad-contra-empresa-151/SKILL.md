@@ -5,7 +5,7 @@ description: "Redacta el escrito «Muerte por amianto: demanda de responsabilida
 
 # Muerte por amianto: demanda de responsabilidad contra la empresa
 
-> Formulario 0151 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0151 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

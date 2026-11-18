@@ -5,7 +5,7 @@ description: "Redacta el escrito «Despido verbal: demanda» (formulario 257 de 
 
 # Despido verbal: demanda
 
-> Formulario 0257 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0257 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

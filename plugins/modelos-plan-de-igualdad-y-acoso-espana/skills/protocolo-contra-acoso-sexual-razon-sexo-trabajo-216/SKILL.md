@@ -5,7 +5,7 @@ description: "Redacta el escrito «Protocolo contra el acoso sexual y por razón
 
 # Protocolo contra el acoso sexual y por razón de sexo en el trabajo
 
-> Formulario 0216 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0216 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

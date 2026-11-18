@@ -5,7 +5,7 @@ description: "Redacta el escrito «Anunciar recurso de suplicación» (formulari
 
 # Anunciar recurso de suplicación
 
-> Formulario 0367 del plugin **Proceso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0367 del plugin **Proceso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

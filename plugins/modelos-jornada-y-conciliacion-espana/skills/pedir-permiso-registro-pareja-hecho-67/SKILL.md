@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir permiso por registro de pareja de hecho
 
 # Pedir permiso por registro de pareja de hecho
 
-> Formulario 0067 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0067 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

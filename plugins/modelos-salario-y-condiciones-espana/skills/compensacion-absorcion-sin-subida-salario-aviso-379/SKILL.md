@@ -5,7 +5,7 @@ description: "Redacta el escrito «Compensación y absorción sin subida de sala
 
 # Compensación y absorción sin subida de salario: aviso al trabajador
 
-> Formulario 0379 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0379 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

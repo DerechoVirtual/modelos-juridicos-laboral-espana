@@ -5,7 +5,7 @@ description: "Redacta el escrito «Trabajo a distancia: demanda por acceso, revi
 
 # Trabajo a distancia: demanda por acceso, revisión o modificación
 
-> Formulario 0148 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0148 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

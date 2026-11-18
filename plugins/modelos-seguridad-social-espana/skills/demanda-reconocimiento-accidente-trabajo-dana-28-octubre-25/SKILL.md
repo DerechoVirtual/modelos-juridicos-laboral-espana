@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de reconocimiento de accidente de tra
 
 # Demanda de reconocimiento de accidente de trabajo por la DANA (28 octubre a 4 noviembre de 2024)
 
-> Formulario 0025 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0025 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir adaptación de jornada por violencia de
 
 # Pedir adaptación de jornada por violencia de género, sexual o terrorismo
 
-> Formulario 0231 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0231 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

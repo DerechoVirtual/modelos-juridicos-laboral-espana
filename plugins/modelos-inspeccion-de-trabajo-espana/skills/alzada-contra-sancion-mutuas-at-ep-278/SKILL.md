@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada contra sanción a las Mutuas de AT y E
 
 # Alzada contra sanción a las Mutuas de AT y EP
 
-> Formulario 0278 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0278 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contencioso contra actas de la Inspección de
 
 # Contencioso contra actas de la Inspección de Trabajo
 
-> Formulario 0246 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0246 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

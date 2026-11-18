@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cierre de centro en un despido colectivo: avi
 
 # Cierre de centro en un despido colectivo: aviso a la autoridad laboral
 
-> Formulario 0073 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0073 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

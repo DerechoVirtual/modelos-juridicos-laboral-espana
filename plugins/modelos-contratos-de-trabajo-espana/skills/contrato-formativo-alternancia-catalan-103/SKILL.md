@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato formativo en alternancia (en catalá
 
 # Contrato formativo en alternancia (en catalán)
 
-> Formulario 0103 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0103 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Respuesta de la empresa a la petición de jub
 
 # Respuesta de la empresa a la petición de jubilación parcial
 
-> Formulario 0149 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0149 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso de ausencia por fuerza mayor ante enfer
 
 # Aviso de ausencia por fuerza mayor ante enfermedad o accidente de un familiar: carta
 
-> Formulario 0093 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0093 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Compromiso de la organización contra el acos
 
 # Compromiso de la organización contra el acoso sexual y por razón de sexo
 
-> Formulario 0215 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0215 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

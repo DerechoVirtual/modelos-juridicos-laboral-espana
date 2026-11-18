@@ -5,7 +5,7 @@ description: "Redacta el escrito «Actuaciones no disciplinarias: propuesta» (f
 
 # Actuaciones no disciplinarias: propuesta
 
-> Formulario 0329 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0329 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

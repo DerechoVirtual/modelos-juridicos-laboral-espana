@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de consultas del despido colectivo» (fo
 
 # Acta de consultas del despido colectivo
 
-> Formulario 0418 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0418 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

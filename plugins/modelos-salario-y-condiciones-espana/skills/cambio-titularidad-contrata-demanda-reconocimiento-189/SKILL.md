@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cambio de titularidad de la contrata: demanda
 
 # Cambio de titularidad de la contrata: demanda de reconocimiento laboral
 
-> Formulario 0189 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0189 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

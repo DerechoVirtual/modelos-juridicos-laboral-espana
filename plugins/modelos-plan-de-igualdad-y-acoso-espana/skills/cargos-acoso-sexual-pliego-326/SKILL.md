@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cargos por acoso sexual: pliego» (formulario
 
 # Cargos por acoso sexual: pliego
 
-> Formulario 0326 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0326 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

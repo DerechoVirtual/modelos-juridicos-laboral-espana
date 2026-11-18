@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sanción por ofensas verbales o físicas: car
 
 # Sanción por ofensas verbales o físicas: carta
 
-> Formulario 0313 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0313 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

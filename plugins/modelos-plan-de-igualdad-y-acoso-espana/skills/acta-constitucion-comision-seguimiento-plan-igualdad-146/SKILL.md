@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de constitución de la Comisión de segu
 
 # Acta de constitución de la Comisión de seguimiento del plan de igualdad o plan LGTBI
 
-> Formulario 0146 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0146 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

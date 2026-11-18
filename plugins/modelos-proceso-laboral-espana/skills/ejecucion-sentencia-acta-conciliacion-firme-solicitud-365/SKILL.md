@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ejecución de sentencia o acta de conciliaci�
 
 # Ejecución de sentencia o acta de conciliación firme: solicitud
 
-> Formulario 0365 del plugin **Proceso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0365 del plugin **Proceso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

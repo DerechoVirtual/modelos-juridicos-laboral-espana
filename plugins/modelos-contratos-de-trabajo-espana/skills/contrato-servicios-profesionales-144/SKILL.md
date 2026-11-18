@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato de servicios profesionales» (formul
 
 # Contrato de servicios profesionales
 
-> Formulario 0144 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0144 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

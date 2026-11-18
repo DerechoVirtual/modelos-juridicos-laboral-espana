@@ -5,7 +5,7 @@ description: "Redacta el escrito «Falso autónomo: papeleta de conciliación pr
 
 # Falso autónomo: papeleta de conciliación previa en el SMAC
 
-> Formulario 0181 del plugin **Proceso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0181 del plugin **Proceso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

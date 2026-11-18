@@ -5,7 +5,7 @@ description: "Redacta el escrito «Compromiso con el plan de igualdad en el conv
 
 # Compromiso con el plan de igualdad en el convenio colectivo: cláusula
 
-> Formulario 0219 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0219 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

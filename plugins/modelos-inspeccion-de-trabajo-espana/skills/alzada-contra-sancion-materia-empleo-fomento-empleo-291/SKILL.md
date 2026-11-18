@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada contra sanción en materia de empleo y
 
 # Alzada contra sanción en materia de empleo y fomento del empleo
 
-> Formulario 0291 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0291 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

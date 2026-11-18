@@ -5,7 +5,7 @@ description: "Redacta el escrito «Compromiso de la empresa con la igualdad: car
 
 # Compromiso de la empresa con la igualdad: carta
 
-> Formulario 0214 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0214 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

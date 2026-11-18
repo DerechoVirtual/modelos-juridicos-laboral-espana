@@ -5,7 +5,7 @@ description: "Redacta el escrito «Plan formativo» (formulario 207 de contratac
 
 # Plan formativo
 
-> Formulario 0207 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0207 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

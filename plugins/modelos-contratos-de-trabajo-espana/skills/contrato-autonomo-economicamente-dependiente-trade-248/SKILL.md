@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato del autónomo económicamente depend
 
 # Contrato del autónomo económicamente dependiente (TRADE)
 
-> Formulario 0248 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0248 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

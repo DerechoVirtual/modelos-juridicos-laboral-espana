@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reclamación de cantidad de la empresa al tra
 
 # Reclamación de cantidad de la empresa al trabajador: demanda
 
-> Formulario 0031 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0031 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

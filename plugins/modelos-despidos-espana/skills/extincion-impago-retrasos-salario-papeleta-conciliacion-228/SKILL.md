@@ -5,7 +5,7 @@ description: "Redacta el escrito «Extinción por impago o retrasos de salario: 
 
 # Extinción por impago o retrasos de salario: papeleta de conciliación del trabajador
 
-> Formulario 0228 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0228 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

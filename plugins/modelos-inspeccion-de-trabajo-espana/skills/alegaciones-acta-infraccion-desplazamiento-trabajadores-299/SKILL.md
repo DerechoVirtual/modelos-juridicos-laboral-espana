@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones al acta de infracción por despla
 
 # Alegaciones al acta de infracción por desplazamiento de trabajadores a España
 
-> Formulario 0299 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0299 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

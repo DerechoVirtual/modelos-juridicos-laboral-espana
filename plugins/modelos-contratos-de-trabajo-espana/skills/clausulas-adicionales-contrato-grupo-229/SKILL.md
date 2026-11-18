@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cláusulas adicionales del contrato de grupo�
 
 # Cláusulas adicionales del contrato de grupo
 
-> Formulario 0229 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0229 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Interrupción de actividad del TRADE: comunic
 
 # Interrupción de actividad del TRADE: comunicación
 
-> Formulario 0353 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0353 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

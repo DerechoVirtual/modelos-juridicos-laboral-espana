@@ -5,7 +5,7 @@ description: "Redacta el escrito «Currículum anónimo» (formulario 210 de con
 
 # Currículum anónimo
 
-> Formulario 0210 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0210 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

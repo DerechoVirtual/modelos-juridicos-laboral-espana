@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de constitución de la comisión negocia
 
 # Acta de constitución de la comisión negociadora del plan de igualdad o plan LGTBI
 
-> Formulario 0211 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0211 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

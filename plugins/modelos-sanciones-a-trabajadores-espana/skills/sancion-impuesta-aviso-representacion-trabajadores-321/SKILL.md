@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sanción impuesta: aviso a la representación
 
 # Sanción impuesta: aviso a la representación de los trabajadores en el expediente sancionador
 
-> Formulario 0321 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0321 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

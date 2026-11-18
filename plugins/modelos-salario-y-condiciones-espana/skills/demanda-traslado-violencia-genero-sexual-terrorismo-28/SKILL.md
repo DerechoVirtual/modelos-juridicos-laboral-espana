@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda de traslado por violencia de género,
 
 # Demanda de traslado por violencia de género, sexual o terrorismo, salud o traslado del cónyuge
 
-> Formulario 0028 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0028 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

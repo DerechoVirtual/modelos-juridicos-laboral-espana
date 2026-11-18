@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir actos preparatorios o prueba anticipada
 
 # Pedir actos preparatorios o prueba anticipada
 
-> Formulario 0373 del plugin **Proceso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0373 del plugin **Proceso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

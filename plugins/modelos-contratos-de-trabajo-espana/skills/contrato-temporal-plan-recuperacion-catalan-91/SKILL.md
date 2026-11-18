@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato temporal del Plan de Recuperación (
 
 # Contrato temporal del Plan de Recuperación (en catalán)
 
-> Formulario 0091 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0091 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

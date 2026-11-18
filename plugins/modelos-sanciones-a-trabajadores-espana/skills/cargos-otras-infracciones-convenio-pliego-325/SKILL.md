@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cargos por otras infracciones del convenio: p
 
 # Cargos por otras infracciones del convenio: pliego
 
-> Formulario 0325 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0325 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

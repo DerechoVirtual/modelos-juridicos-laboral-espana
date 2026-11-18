@@ -5,7 +5,7 @@ description: "Redacta el escrito «Respuesta del trabajador a la recolocación t
 
 # Respuesta del trabajador a la recolocación tras el fin de la obra de construcción
 
-> Formulario 0125 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0125 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

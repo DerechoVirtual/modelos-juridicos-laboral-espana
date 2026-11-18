@@ -5,7 +5,7 @@ description: "Redacta el escrito «Confidencialidad en la tramitación de denunc
 
 # Confidencialidad en la tramitación de denuncias de acoso: compromiso
 
-> Formulario 0220 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0220 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

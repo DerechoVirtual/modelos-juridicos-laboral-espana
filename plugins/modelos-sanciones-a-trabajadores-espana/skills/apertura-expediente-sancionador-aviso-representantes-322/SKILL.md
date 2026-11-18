@@ -5,7 +5,7 @@ description: "Redacta el escrito «Apertura de expediente sancionador: aviso a r
 
 # Apertura de expediente sancionador: aviso a representantes, sindicato y delegado de prevención
 
-> Formulario 0322 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0322 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

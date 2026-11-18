@@ -5,7 +5,7 @@ description: "Redacta el escrito «ERTE por fuerza mayor temporal: comunicación
 
 # ERTE por fuerza mayor temporal: comunicación al trabajador
 
-> Formulario 0200 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0200 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

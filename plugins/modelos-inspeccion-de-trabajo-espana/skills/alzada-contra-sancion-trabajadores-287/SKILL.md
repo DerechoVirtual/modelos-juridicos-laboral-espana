@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada contra sanción a trabajadores» (form
 
 # Alzada contra sanción a trabajadores
 
-> Formulario 0287 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0287 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

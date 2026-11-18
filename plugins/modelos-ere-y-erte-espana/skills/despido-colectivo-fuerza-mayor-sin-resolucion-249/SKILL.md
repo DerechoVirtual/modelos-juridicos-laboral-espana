@@ -5,7 +5,7 @@ description: "Redacta el escrito «Despido colectivo por fuerza mayor sin resolu
 
 # Despido colectivo por fuerza mayor sin resolución administrativa: demanda
 
-> Formulario 0249 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0249 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

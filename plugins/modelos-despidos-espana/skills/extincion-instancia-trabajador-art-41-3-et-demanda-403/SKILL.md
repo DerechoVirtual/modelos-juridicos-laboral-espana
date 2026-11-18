@@ -5,7 +5,7 @@ description: "Redacta el escrito «Extinción a instancia del trabajador por el 
 
 # Extinción a instancia del trabajador por el art. 41.3 ET: demanda
 
-> Formulario 0403 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0403 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

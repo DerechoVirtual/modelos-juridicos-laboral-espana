@@ -5,7 +5,7 @@ description: "Redacta el escrito «Recolocación de obra de un indefinido adscri
 
 # Recolocación de obra de un indefinido adscrito a obra: propuesta de la empresa
 
-> Formulario 0129 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0129 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

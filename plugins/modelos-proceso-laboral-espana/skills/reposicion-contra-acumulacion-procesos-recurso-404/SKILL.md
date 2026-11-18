@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reposición contra la acumulación de proceso
 
 # Reposición contra la acumulación de procesos: recurso
 
-> Formulario 0404 del plugin **Proceso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0404 del plugin **Proceso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

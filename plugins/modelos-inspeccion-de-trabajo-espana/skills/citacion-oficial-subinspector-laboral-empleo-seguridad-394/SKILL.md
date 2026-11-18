@@ -5,7 +5,7 @@ description: "Redacta el escrito «Citación oficial del Subinspector Laboral de
 
 # Citación oficial del Subinspector Laboral de Empleo y Seguridad Social
 
-> Formulario 0394 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0394 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

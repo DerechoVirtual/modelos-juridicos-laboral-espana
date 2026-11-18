@@ -5,7 +5,7 @@ description: "Redacta el escrito «Respuesta de la empresa al permiso retribuido
 
 # Respuesta de la empresa al permiso retribuido por la DANA
 
-> Formulario 0022 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0022 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

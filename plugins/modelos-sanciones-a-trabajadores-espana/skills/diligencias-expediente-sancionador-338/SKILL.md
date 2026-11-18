@@ -5,7 +5,7 @@ description: "Redacta el escrito «Diligencias en el expediente sancionador» (f
 
 # Diligencias en el expediente sancionador
 
-> Formulario 0338 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0338 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

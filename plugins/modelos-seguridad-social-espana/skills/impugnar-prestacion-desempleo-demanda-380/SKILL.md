@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnar la prestación por desempleo: demand
 
 # Impugnar la prestación por desempleo: demanda
 
-> Formulario 0380 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0380 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

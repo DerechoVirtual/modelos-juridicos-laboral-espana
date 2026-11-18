@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada por concurrencia de sanciones» (formu
 
 # Alzada por concurrencia de sanciones
 
-> Formulario 0265 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0265 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

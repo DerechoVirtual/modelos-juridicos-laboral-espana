@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato laboral de colaboración para formar
 
 # Contrato laboral de colaboración para formar una cuadrilla
 
-> Formulario 0133 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0133 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

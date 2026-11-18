@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato formativo para la práctica profesio
 
 # Contrato formativo para la práctica profesional (en catalán)
 
-> Formulario 0097 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0097 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

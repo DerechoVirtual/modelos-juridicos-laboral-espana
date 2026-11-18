@@ -5,7 +5,7 @@ description: "Redacta el escrito «Personal laboral temporal irregular de entida
 
 # Personal laboral temporal irregular de entidades públicas: demanda para ser fijo
 
-> Formulario 0304 del plugin **Proceso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0304 del plugin **Proceso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

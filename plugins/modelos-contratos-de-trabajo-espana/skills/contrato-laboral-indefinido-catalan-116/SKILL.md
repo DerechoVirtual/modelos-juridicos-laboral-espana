@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato laboral indefinido (en catalán)» (
 
 # Contrato laboral indefinido (en catalán)
 
-> Formulario 0116 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0116 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

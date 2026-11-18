@@ -5,7 +5,7 @@ description: "Redacta el escrito «Prórroga de la suspensión o reducción de j
 
 # Prórroga de la suspensión o reducción de jornada por ETOP (ERTE): aviso al trabajador
 
-> Formulario 0180 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0180 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

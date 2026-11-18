@@ -5,7 +5,7 @@ description: "Redacta el escrito «Prórroga del contrato de trabajo acogida al 
 
 # Prórroga del contrato de trabajo acogida al Real Decreto: comunicación (en catalán)
 
-> Formulario 0037 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0037 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

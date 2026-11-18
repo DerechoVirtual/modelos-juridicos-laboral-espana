@@ -5,7 +5,7 @@ description: "Redacta el escrito «Criterios de selección de la empresa usuaria
 
 # Criterios de selección de la empresa usuaria: comunicación a la empresa externa
 
-> Formulario 0206 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0206 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Despido disciplinario o reclamación de canti
 
 # Despido disciplinario o reclamación de cantidad: papeleta de conciliación en el SMAC
 
-> Formulario 0368 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0368 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

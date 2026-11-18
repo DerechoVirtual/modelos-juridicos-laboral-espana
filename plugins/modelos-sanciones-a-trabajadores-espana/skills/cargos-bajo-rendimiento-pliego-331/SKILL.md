@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cargos por bajo rendimiento: pliego» (formul
 
 # Cargos por bajo rendimiento: pliego
 
-> Formulario 0331 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0331 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

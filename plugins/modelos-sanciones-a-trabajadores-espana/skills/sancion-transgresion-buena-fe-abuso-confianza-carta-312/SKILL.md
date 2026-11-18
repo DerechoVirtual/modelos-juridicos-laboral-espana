@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sanción por transgresión de la buena fe y a
 
 # Sanción por transgresión de la buena fe y abuso de confianza: carta
 
-> Formulario 0312 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0312 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

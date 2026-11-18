@@ -5,7 +5,7 @@ description: "Redacta el escrito «Suplicación en procedimiento de acceso, reve
 
 # Suplicación en procedimiento de acceso, reversión o modificación del trabajo a distancia: recurso
 
-> Formulario 0147 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0147 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

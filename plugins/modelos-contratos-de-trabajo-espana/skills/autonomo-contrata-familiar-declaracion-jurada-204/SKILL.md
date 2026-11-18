@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autónomo que contrata a un familiar: declara
 
 # Autónomo que contrata a un familiar: declaración jurada
 
-> Formulario 0204 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0204 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

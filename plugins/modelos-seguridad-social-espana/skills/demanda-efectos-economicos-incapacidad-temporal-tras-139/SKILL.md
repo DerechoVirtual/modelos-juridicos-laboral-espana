@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda por efectos económicos de la incapac
 
 # Demanda por efectos económicos de la incapacidad temporal tras un proceso anterior
 
-> Formulario 0139 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0139 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

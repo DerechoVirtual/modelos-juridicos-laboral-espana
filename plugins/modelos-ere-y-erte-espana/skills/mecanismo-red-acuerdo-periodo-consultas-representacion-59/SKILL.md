@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mecanismo RED: acuerdo en el periodo de consu
 
 # Mecanismo RED: acuerdo en el periodo de consultas con la representación de los trabajadores
 
-> Formulario 0059 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0059 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

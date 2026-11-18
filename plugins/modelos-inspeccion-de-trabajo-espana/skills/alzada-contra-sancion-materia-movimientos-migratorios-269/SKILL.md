@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada contra sanción en materia de movimien
 
 # Alzada contra sanción en materia de movimientos migratorios
 
-> Formulario 0269 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0269 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

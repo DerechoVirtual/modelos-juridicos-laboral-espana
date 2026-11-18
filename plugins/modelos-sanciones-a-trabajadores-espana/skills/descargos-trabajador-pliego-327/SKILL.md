@@ -5,7 +5,7 @@ description: "Redacta el escrito «Descargos del trabajador: pliego» (formulari
 
 # Descargos del trabajador: pliego
 
-> Formulario 0327 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0327 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

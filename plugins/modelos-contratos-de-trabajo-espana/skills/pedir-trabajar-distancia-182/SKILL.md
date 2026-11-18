@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir trabajar a distancia» (formulario 182 
 
 # Pedir trabajar a distancia
 
-> Formulario 0182 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0182 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

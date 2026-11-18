@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ingreso mínimo vital denegado: reclamación 
 
 # Ingreso mínimo vital denegado: reclamación previa
 
-> Formulario 0155 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0155 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

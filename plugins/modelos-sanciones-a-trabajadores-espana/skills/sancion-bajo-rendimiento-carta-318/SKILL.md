@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sanción por bajo rendimiento: carta» (formu
 
 # Sanción por bajo rendimiento: carta
 
-> Formulario 0318 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0318 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

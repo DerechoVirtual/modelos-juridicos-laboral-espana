@@ -5,7 +5,7 @@ description: "Redacta el escrito «Normas de uso del sistema informático y las 
 
 # Normas de uso del sistema informático y las comunicaciones electrónicas
 
-> Formulario 0239 del plugin **Protección de datos y control empresarial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0239 del plugin **Protección de datos y control empresarial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

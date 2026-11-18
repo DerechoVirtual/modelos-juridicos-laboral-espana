@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reconocimiento de relación laboral con una e
 
 # Reconocimiento de relación laboral con una entidad pública: demanda
 
-> Formulario 0303 del plugin **Proceso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0303 del plugin **Proceso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

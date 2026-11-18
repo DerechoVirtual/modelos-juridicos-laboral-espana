@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ejecución del acuerdo de conciliación judic
 
 # Ejecución del acuerdo de conciliación judicial (decreto del LAJ)
 
-> Formulario 0254 del plugin **Proceso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0254 del plugin **Proceso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

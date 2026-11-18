@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir permiso para informes psicológicos y s
 
 # Pedir permiso para informes psicológicos y sociales de adopción
 
-> Formulario 0397 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0397 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

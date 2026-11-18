@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sanción propuesta en el expediente disciplin
 
 # Sanción propuesta en el expediente disciplinario
 
-> Formulario 0323 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0323 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

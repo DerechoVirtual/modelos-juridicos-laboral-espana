@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sucesión de empresa: aviso al trabajador» (
 
 # Sucesión de empresa: aviso al trabajador
 
-> Formulario 0357 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0357 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Puesta a disposición: contrato» (formulario
 
 # Puesta a disposición: contrato
 
-> Formulario 0385 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0385 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

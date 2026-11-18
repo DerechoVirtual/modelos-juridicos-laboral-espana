@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mecanismo RED: apertura del periodo de consul
 
 # Mecanismo RED: apertura del periodo de consultas comunicada a la plantilla
 
-> Formulario 0061 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0061 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

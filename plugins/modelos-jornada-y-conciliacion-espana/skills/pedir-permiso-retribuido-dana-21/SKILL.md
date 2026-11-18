@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir permiso retribuido por la DANA» (formu
 
 # Pedir permiso retribuido por la DANA
 
-> Formulario 0021 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0021 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

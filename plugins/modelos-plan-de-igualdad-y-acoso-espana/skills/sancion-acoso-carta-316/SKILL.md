@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sanción por acoso: carta» (formulario 316 d
 
 # Sanción por acoso: carta
 
-> Formulario 0316 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0316 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

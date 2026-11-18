@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato laboral temporal (en gallego)» (for
 
 # Contrato laboral temporal (en gallego)
 
-> Formulario 0110 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0110 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

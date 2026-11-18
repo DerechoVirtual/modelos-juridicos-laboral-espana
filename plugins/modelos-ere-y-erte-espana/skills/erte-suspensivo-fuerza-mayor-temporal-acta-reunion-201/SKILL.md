@@ -5,7 +5,7 @@ description: "Redacta el escrito «ERTE suspensivo por fuerza mayor temporal: ac
 
 # ERTE suspensivo por fuerza mayor temporal: acta de reunión con la representación
 
-> Formulario 0201 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0201 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

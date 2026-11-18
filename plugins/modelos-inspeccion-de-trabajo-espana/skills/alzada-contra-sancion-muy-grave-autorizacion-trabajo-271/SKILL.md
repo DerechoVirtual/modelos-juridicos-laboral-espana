@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada contra sanción muy grave por autoriza
 
 # Alzada contra sanción muy grave por autorización de trabajo de extranjeros
 
-> Formulario 0271 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0271 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

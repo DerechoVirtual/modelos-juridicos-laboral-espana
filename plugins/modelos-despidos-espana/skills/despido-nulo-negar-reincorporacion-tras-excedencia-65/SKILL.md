@@ -5,7 +5,7 @@ description: "Redacta el escrito «Despido nulo por negar la reincorporación tr
 
 # Despido nulo por negar la reincorporación tras excedencia por cuidado de pareja de hecho: demanda
 
-> Formulario 0065 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0065 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato formativo en alternancia (en gallego
 
 # Contrato formativo en alternancia (en gallego)
 
-> Formulario 0104 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0104 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

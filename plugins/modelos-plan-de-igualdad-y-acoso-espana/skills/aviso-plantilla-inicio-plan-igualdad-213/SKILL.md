@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso a la plantilla del inicio del Plan de I
 
 # Aviso a la plantilla del inicio del Plan de Igualdad
 
-> Formulario 0213 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0213 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

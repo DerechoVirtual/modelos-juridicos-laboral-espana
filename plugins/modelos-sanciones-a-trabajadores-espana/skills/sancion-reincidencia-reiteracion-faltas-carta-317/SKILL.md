@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sanción por reincidencia o reiteración de f
 
 # Sanción por reincidencia o reiteración de faltas: carta
 
-> Formulario 0317 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0317 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sucesión en la contrata: aviso de la empresa
 
 # Sucesión en la contrata: aviso de la empresa a la representación de los trabajadores
 
-> Formulario 0356 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0356 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Concurrencia de sanciones: alegaciones» (for
 
 # Concurrencia de sanciones: alegaciones
 
-> Formulario 0266 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0266 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

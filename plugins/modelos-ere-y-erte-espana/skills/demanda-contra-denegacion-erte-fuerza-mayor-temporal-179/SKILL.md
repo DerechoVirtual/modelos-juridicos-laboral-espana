@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda contra la denegación de ERTE por fue
 
 # Demanda contra la denegación de ERTE por fuerza mayor temporal o Mecanismo RED
 
-> Formulario 0179 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0179 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

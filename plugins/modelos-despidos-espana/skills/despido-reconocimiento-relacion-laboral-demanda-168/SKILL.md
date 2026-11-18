@@ -5,7 +5,7 @@ description: "Redacta el escrito «Despido y reconocimiento de relación laboral
 
 # Despido y reconocimiento de relación laboral: demanda
 
-> Formulario 0168 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0168 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Ascenso de categoría y diferencias salariale
 
 # Ascenso de categoría y diferencias salariales por funciones superiores: solicitud
 
-> Formulario 0417 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0417 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

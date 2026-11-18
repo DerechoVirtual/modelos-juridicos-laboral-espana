@@ -5,7 +5,7 @@ description: "Redacta el escrito «Memoria de ejemplo sobre causa productiva en 
 
 # Memoria de ejemplo sobre causa productiva en un despido colectivo
 
-> Formulario 0419 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0419 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

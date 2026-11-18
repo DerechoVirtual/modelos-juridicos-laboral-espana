@@ -5,7 +5,7 @@ description: "Redacta el escrito «Requerimiento normalizado de la ITSS» (formu
 
 # Requerimiento normalizado de la ITSS
 
-> Formulario 0395 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0395 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

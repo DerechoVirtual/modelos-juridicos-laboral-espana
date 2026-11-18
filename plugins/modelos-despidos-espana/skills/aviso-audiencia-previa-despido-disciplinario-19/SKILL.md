@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso de audiencia previa al despido discipli
 
 # Aviso de audiencia previa al despido disciplinario
 
-> Formulario 0019 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0019 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

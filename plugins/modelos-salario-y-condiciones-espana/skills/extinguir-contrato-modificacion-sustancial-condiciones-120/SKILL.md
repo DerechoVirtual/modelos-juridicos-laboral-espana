@@ -5,7 +5,7 @@ description: "Redacta el escrito «Extinguir el contrato por modificación susta
 
 # Extinguir el contrato por modificación sustancial de condiciones: demanda
 
-> Formulario 0120 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0120 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

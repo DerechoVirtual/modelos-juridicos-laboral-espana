@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la conciliación anticipada ante el tri
 
 # Pedir la conciliación anticipada ante el tribunal
 
-> Formulario 0017 del plugin **Proceso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0017 del plugin **Proceso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

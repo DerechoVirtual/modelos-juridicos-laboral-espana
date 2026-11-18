@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones al acta de infracción por activi
 
 # Alegaciones al acta de infracción por actividad transnacional de empresas de trabajo temporal
 
-> Formulario 0296 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0296 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

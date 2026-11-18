@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones al acta de infracción de movimie
 
 # Alegaciones al acta de infracción de movimientos migratorios
 
-> Formulario 0272 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0272 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

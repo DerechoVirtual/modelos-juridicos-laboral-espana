@@ -5,7 +5,7 @@ description: "Redacta el escrito «Reglamento de la Comisión de seguimiento y e
 
 # Reglamento de la Comisión de seguimiento y evaluación
 
-> Formulario 0136 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0136 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

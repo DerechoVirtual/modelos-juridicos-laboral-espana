@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato laboral temporal (en euskera)» (for
 
 # Contrato laboral temporal (en euskera)
 
-> Formulario 0111 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0111 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

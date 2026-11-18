@@ -5,7 +5,7 @@ description: "Redacta el escrito «Sobreseimiento del expediente sancionador: pr
 
 # Sobreseimiento del expediente sancionador: propuesta
 
-> Formulario 0320 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0320 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

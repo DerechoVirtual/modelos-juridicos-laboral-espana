@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de aprobación del plan de igualdad o de
 
 # Acta de aprobación del plan de igualdad o del plan LGTBI
 
-> Formulario 0164 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0164 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

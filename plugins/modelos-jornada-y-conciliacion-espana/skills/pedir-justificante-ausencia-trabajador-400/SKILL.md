@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir justificante de ausencia al trabajador�
 
 # Pedir justificante de ausencia al trabajador
 
-> Formulario 0400 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0400 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

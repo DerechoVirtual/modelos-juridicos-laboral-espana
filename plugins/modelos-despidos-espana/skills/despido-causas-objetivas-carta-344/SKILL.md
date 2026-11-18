@@ -5,7 +5,7 @@ description: "Redacta el escrito «Despido por causas objetivas: carta» (formul
 
 # Despido por causas objetivas: carta
 
-> Formulario 0344 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0344 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

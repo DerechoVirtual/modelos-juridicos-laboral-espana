@@ -5,7 +5,7 @@ description: "Redacta el escrito «Autorizar los trámites de inscripción del p
 
 # Autorizar los trámites de inscripción del plan de igualdad o del protocolo de acoso
 
-> Formulario 0165 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0165 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

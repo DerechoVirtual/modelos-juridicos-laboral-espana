@@ -5,7 +5,7 @@ description: "Redacta el escrito «Riesgo durante la lactancia natural: demanda 
 
 # Riesgo durante la lactancia natural: demanda contra la Mutua
 
-> Formulario 0259 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0259 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

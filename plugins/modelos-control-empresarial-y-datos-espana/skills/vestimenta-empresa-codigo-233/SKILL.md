@@ -5,7 +5,7 @@ description: "Redacta el escrito «Vestimenta en la empresa: código» (formular
 
 # Vestimenta en la empresa: código
 
-> Formulario 0233 del plugin **Protección de datos y control empresarial** · revisado el 17-11-2026. Uso interno.
+> Formulario 0233 del plugin **Protección de datos y control empresarial** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

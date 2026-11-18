@@ -5,7 +5,7 @@ description: "Redacta el escrito «Extinción del contrato por circunstancias de
 
 # Extinción del contrato por circunstancias de la producción (tras el RDL 32/2021): comunicación
 
-> Formulario 0094 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0094 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

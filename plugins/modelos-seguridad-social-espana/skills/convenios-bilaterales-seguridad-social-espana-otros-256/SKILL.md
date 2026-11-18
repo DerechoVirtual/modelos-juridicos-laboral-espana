@@ -5,7 +5,7 @@ description: "Redacta el escrito «Convenios bilaterales de Seguridad Social de 
 
 # Convenios bilaterales de Seguridad Social de España con otros países
 
-> Formulario 0256 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0256 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

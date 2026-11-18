@@ -5,7 +5,7 @@ description: "Redacta el escrito «Fútbol sala: inicio del procedimiento abrevi
 
 # Fútbol sala: inicio del procedimiento abreviado de resolución contractual anticipada
 
-> Formulario 0352 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0352 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Despido colectivo en grupo mercantil sin cuen
 
 # Despido colectivo en grupo mercantil sin cuentas consolidadas: nulidad por falta de documentación
 
-> Formulario 0375 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0375 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

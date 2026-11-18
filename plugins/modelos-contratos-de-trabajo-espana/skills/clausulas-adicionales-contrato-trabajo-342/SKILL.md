@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cláusulas adicionales del contrato de trabaj
 
 # Cláusulas adicionales del contrato de trabajo
 
-> Formulario 0342 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0342 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

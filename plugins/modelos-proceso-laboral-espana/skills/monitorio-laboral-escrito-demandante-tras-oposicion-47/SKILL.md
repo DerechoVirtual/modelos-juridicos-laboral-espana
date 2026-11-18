@@ -5,7 +5,7 @@ description: "Redacta el escrito «Monitorio laboral: escrito del demandante tra
 
 # Monitorio laboral: escrito del demandante tras la oposición de la empresa
 
-> Formulario 0047 del plugin **Proceso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0047 del plugin **Proceso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

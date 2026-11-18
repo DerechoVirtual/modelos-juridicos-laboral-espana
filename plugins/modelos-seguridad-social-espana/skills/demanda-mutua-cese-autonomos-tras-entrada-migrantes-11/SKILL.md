@@ -5,7 +5,7 @@ description: "Redacta el escrito «Demanda a la Mutua por cese de autónomos tra
 
 # Demanda a la Mutua por cese de autónomos tras la entrada de migrantes en Ceuta (julio 2026)
 
-> Formulario 0011 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0011 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Distribución irregular de la jornada: carta 
 
 # Distribución irregular de la jornada: carta al trabajador
 
-> Formulario 0381 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0381 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

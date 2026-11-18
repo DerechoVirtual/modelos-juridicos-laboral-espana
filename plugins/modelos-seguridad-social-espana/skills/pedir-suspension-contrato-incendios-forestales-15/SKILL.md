@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir suspensión del contrato por incendios 
 
 # Pedir suspensión del contrato por incendios forestales
 
-> Formulario 0015 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0015 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

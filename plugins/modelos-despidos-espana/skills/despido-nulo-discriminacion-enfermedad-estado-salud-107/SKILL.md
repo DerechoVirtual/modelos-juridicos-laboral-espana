@@ -5,7 +5,7 @@ description: "Redacta el escrito «Despido nulo por discriminación por enfermed
 
 # Despido nulo por discriminación por enfermedad o estado de salud: demanda
 
-> Formulario 0107 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0107 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

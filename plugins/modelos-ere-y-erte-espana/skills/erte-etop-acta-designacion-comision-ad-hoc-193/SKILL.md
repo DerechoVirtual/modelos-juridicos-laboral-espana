@@ -5,7 +5,7 @@ description: "Redacta el escrito «ERTE por ETOP: acta de designación de la com
 
 # ERTE por ETOP: acta de designación de la comisión ad hoc
 
-> Formulario 0193 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0193 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

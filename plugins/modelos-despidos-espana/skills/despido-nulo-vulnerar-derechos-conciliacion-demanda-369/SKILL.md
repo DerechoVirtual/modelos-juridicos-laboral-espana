@@ -5,7 +5,7 @@ description: "Redacta el escrito «Despido nulo por vulnerar derechos de concili
 
 # Despido nulo por vulnerar derechos de conciliación: demanda
 
-> Formulario 0369 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0369 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

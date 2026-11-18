@@ -5,7 +5,7 @@ description: "Redacta el escrito «Transacción sobre el despido: acuerdo» (for
 
 # Transacción sobre el despido: acuerdo
 
-> Formulario 0241 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0241 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

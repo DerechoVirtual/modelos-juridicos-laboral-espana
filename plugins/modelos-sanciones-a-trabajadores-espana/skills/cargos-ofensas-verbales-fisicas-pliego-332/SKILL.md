@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cargos por ofensas verbales o físicas: plieg
 
 # Cargos por ofensas verbales o físicas: pliego
 
-> Formulario 0332 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0332 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

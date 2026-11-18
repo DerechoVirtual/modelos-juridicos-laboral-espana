@@ -5,7 +5,7 @@ description: "Redacta el escrito «Aviso a la plantilla de la implantación del 
 
 # Aviso a la plantilla de la implantación del canal de denuncias
 
-> Formulario 0095 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0095 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

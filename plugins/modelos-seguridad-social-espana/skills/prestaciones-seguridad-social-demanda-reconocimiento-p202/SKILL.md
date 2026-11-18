@@ -5,7 +5,7 @@ description: "Redacta el escrito «Prestaciones de la Seguridad Social: demanda 
 
 # Prestaciones de la Seguridad Social: demanda de reconocimiento
 
-> Formulario 0202 de la colección de Procesal del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0202 de la colección de Procesal del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

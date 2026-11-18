@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cambio de jornada completa a parcial o al rev
 
 # Cambio de jornada completa a parcial o al revés: acuerdo
 
-> Formulario 0236 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0236 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones al acta de infracción por inform
 
 # Alegaciones al acta de infracción por información y consulta en sociedades europeas
 
-> Formulario 0300 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0300 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

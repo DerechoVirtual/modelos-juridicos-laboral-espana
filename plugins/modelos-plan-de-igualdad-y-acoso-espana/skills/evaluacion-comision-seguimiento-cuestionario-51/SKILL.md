@@ -5,7 +5,7 @@ description: "Redacta el escrito «Evaluación para la comisión de seguimiento:
 
 # Evaluación para la comisión de seguimiento: cuestionario
 
-> Formulario 0051 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0051 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Suplicación: formalización del recurso» (f
 
 # Suplicación: formalización del recurso
 
-> Formulario 0351 del plugin **Proceso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0351 del plugin **Proceso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

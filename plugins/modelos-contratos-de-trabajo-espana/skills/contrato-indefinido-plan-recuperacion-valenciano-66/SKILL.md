@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato indefinido del Plan de Recuperación
 
 # Contrato indefinido del Plan de Recuperación (en valenciano)
 
-> Formulario 0066 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0066 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

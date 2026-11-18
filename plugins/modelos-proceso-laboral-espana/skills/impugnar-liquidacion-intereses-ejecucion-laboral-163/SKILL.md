@@ -5,7 +5,7 @@ description: "Redacta el escrito «Impugnar la liquidación de intereses en la e
 
 # Impugnar la liquidación de intereses en la ejecución laboral
 
-> Formulario 0163 del plugin **Proceso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0163 del plugin **Proceso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

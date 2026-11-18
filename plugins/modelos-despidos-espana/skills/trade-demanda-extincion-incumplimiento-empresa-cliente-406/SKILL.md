@@ -5,7 +5,7 @@ description: "Redacta el escrito «TRADE: demanda de extinción por incumplimien
 
 # TRADE: demanda de extinción por incumplimiento de la empresa cliente
 
-> Formulario 0406 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0406 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

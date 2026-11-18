@@ -5,7 +5,7 @@ description: "Redacta el escrito «Calendario del expediente de regulación de e
 
 # Calendario del expediente de regulación de empleo
 
-> Formulario 0198 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0198 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

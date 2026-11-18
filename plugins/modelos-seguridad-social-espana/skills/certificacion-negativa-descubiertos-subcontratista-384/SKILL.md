@@ -5,7 +5,7 @@ description: "Redacta el escrito «Certificación negativa de descubiertos de la
 
 # Certificación negativa de descubiertos de la subcontratista: solicitud a la Tesorería
 
-> Formulario 0384 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0384 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

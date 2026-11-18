@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alzada contra sanción a empresas de inserci�
 
 # Alzada contra sanción a empresas de inserción
 
-> Formulario 0282 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0282 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declaración del hogar familiar sobre reducci
 
 # Declaración del hogar familiar sobre reducción de servicios por la DANA
 
-> Formulario 0024 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0024 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

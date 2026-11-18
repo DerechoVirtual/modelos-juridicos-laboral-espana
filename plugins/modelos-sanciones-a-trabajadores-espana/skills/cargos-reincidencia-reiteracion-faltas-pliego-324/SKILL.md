@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cargos por reincidencia o reiteración de fal
 
 # Cargos por reincidencia o reiteración de faltas: pliego
 
-> Formulario 0324 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0324 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

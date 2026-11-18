@@ -5,7 +5,7 @@ description: "Redacta el escrito «Cesión de vivienda al trabajador: acuerdo de
 
 # Cesión de vivienda al trabajador: acuerdo de uso
 
-> Formulario 0183 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026. Uso interno.
+> Formulario 0183 del plugin **Condiciones de trabajo y salario** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

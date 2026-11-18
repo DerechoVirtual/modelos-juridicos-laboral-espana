@@ -5,7 +5,7 @@ description: "Redacta el escrito «Despido colectivo con acuerdo: demanda de sin
 
 # Despido colectivo con acuerdo: demanda de sindicatos que no lo firmaron
 
-> Formulario 0391 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0391 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

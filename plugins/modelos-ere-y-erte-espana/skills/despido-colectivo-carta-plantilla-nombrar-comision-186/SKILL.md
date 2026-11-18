@@ -5,7 +5,7 @@ description: "Redacta el escrito «Despido colectivo: carta a la plantilla para 
 
 # Despido colectivo: carta a la plantilla para nombrar la comisión negociadora
 
-> Formulario 0186 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0186 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

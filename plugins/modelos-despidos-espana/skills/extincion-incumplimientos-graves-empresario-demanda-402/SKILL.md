@@ -5,7 +5,7 @@ description: "Redacta el escrito «Extinción por incumplimientos graves del emp
 
 # Extinción por incumplimientos graves del empresario: demanda del trabajador
 
-> Formulario 0402 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0402 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

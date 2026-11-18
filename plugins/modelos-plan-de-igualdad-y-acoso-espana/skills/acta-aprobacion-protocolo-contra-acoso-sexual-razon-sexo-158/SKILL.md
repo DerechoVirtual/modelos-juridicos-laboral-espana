@@ -5,7 +5,7 @@ description: "Redacta el escrito «Acta de aprobación del protocolo contra el a
 
 # Acta de aprobación del protocolo contra el acoso sexual o por razón de sexo
 
-> Formulario 0158 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0158 del plugin **Igualdad y acoso laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

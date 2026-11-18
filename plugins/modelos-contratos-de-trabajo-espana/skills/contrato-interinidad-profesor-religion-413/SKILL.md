@@ -5,7 +5,7 @@ description: "Redacta el escrito «Contrato de interinidad de profesor de religi
 
 # Contrato de interinidad de profesor de religión
 
-> Formulario 0413 del plugin **Contratación laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0413 del plugin **Contratación laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

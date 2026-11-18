@@ -5,7 +5,7 @@ description: "Redacta el escrito «Declaración responsable de exención de cuot
 
 # Declaración responsable de exención de cuotas en ERTE y Mecanismo RED
 
-> Formulario 0192 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0192 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

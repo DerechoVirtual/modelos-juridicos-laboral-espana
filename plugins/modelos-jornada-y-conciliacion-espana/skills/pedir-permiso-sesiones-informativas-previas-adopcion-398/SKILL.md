@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir permiso para sesiones informativas prev
 
 # Pedir permiso para sesiones informativas previas a la adopción
 
-> Formulario 0398 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0398 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

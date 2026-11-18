@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir trabajo a distancia como víctima de vi
 
 # Pedir trabajo a distancia como víctima de violencia de género
 
-> Formulario 0156 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0156 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

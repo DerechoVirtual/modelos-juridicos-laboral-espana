@@ -5,7 +5,7 @@ description: "Redacta el escrito «Prórroga de excedencia voluntaria: demanda d
 
 # Prórroga de excedencia voluntaria: demanda de reconocimiento
 
-> Formulario 0176 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026. Uso interno.
+> Formulario 0176 del plugin **Jornada, permisos y conciliación** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

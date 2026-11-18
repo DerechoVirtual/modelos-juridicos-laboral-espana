@@ -5,7 +5,7 @@ description: "Redacta el escrito «Mecanismo RED: designación de miembros de la
 
 # Mecanismo RED: designación de miembros de la comisión negociadora comunicada a la empresa
 
-> Formulario 0063 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0063 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

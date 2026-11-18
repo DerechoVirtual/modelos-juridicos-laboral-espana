@@ -5,7 +5,7 @@ description: "Redacta el escrito «Alegaciones al acta de infracción en materia
 
 # Alegaciones al acta de infracción en materia de cooperativas
 
-> Formulario 0275 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026. Uso interno.
+> Formulario 0275 del plugin **Inspección de Trabajo y sanciones** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

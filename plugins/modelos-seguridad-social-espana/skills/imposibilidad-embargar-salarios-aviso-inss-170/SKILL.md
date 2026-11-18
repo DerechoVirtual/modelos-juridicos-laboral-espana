@@ -5,7 +5,7 @@ description: "Redacta el escrito «Imposibilidad de embargar salarios: aviso al 
 
 # Imposibilidad de embargar salarios: aviso al INSS
 
-> Formulario 0170 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026. Uso interno.
+> Formulario 0170 del plugin **Seguridad Social y accidentes de trabajo** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

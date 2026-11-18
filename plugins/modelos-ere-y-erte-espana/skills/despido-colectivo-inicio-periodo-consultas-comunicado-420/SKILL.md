@@ -5,7 +5,7 @@ description: "Redacta el escrito «Despido colectivo: inicio del periodo de cons
 
 # Despido colectivo: inicio del periodo de consultas comunicado a la autoridad laboral
 
-> Formulario 0420 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026. Uso interno.
+> Formulario 0420 del plugin **Despido colectivo y ERTE** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

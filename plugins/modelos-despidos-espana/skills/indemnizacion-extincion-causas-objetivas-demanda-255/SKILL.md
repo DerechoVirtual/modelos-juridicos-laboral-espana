@@ -5,7 +5,7 @@ description: "Redacta el escrito «Indemnización por extinción por causas obje
 
 # Indemnización por extinción por causas objetivas: demanda
 
-> Formulario 0255 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026. Uso interno.
+> Formulario 0255 del plugin **Despido y extinción del contrato** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 

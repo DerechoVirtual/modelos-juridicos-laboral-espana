@@ -5,7 +5,7 @@ description: "Redacta el escrito «Pedir la cancelación de antecedentes por san
 
 # Pedir la cancelación de antecedentes por sanción
 
-> Formulario 0310 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026. Uso interno.
+> Formulario 0310 del plugin **Régimen disciplinario laboral** · revisado el 17-11-2026.
 
 ## Paso 0: Jurisprudenciator en esta skill (obligatorio)
 
