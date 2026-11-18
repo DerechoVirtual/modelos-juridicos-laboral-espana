@@ -1,0 +1,25 @@
+{
+  "name": "modelos-salario-y-condiciones-espana",
+  "version": "1.0.0",
+  "description": "Condiciones de trabajo y salario: 23 formularios revisados el 17-11-2026, cada uno convertido en una skill que lo rellena paso a paso (modificación sustancial, sucesión de empresa, salario, reclamación de cantidad, anticipos y préstamos). Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+  "author": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "displayName": "Reclamar salarios y modificar condiciones · España",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://jurisprudenciator.lexiaipro.org/politica-de-privacidad",
+  "supportUrl": "https://jurisprudenciator.lexiaipro.org/incidencias",
+  "homepage": "https://jurisprudenciator.lexiaipro.org",
+  "termsOfServiceUrl": "https://jurisprudenciator.lexiaipro.org/terminos-y-condiciones",
+  "keywords": [
+    "jurisprudenciator",
+    "legal",
+    "españa",
+    "formularios",
+    "modelos",
+    "condiciones-de-trabajo-y-salario"
+  ],
+  "repository": "https://github.com/DerechoVirtual/modelos-juridicos-laboral-espana",
+  "license": "SEE LICENSE IN LICENSE"
+}

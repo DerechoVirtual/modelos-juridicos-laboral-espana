@@ -1,0 +1,178 @@
+{
+  "name": "modelos-juridicos-laboral-espana",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Modelos de escritos jurídicos de España para Claude · Laboral: 11 plugins por tema, una skill por modelo, cada una conectada a Jurisprudenciator para verificar normas y jurisprudencia.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "modelos-contratos-de-trabajo-espana",
+      "source": "./plugins/modelos-contratos-de-trabajo-espana",
+      "description": "Contratos de trabajo: indefinidos, temporales y formativos · España (84 formularios). Sirve para contratar: contratos indefinidos, temporales y formativos (también los del Plan de Recuperación y versiones en catalán, euskera, gallego, valenciano e inglés), llamamiento y novación de fijos discontinuos, información obligatoria al trabajador (RD 723/2026), ETT y relaciones laborales especiales. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "contratacion-laboral"
+      ]
+    },
+    {
+      "name": "modelos-control-empresarial-y-datos-espana",
+      "source": "./plugins/modelos-control-empresarial-y-datos-espana",
+      "description": "Videovigilancia, geolocalización y datos de la plantilla · España (11 formularios). Sirve para controlar la actividad de la plantilla respetando su intimidad: cláusulas de protección de datos, videovigilancia, geolocalización, uso de los medios informáticos de la empresa y códigos de conducta. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "datos-y-control-empresarial"
+      ]
+    },
+    {
+      "name": "modelos-despidos-espana",
+      "source": "./plugins/modelos-despidos-espana",
+      "description": "Cartas de despido y extinción del contrato · España (36 formularios). Sirve para el final de la relación laboral: cartas de despido disciplinario y objetivo, despido nulo, dimisión del trabajador, jubilación, y extinción por incumplimiento de la empresa (art. 50 ET). Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "despido-y-extincion"
+      ]
+    },
+    {
+      "name": "modelos-ere-y-erte-espana",
+      "source": "./plugins/modelos-ere-y-erte-espana",
+      "description": "ERE, ERTE y Mecanismo RED · España (36 formularios). Sirve para reestructuraciones: despido colectivo con su periodo de consultas, comisión negociadora, ERTE por causas ETOP o por fuerza mayor, Mecanismo RED y comunicaciones a la autoridad laboral. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "despido-colectivo-y-erte"
+      ]
+    },
+    {
+      "name": "modelos-inspeccion-de-trabajo-espana",
+      "source": "./plugins/modelos-inspeccion-de-trabajo-espana",
+      "description": "Alegaciones y recursos ante la Inspección de Trabajo · España (55 formularios). Sirve para defenderse en las actuaciones de la Inspección de Trabajo: alegaciones a las actas de infracción (por materias), recursos de alzada contra las sanciones, caducidad y prescripción, y sanciones de la LISOS con la reducción por pago voluntario. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "inspeccion-de-trabajo-y-sanciones"
+      ]
+    },
+    {
+      "name": "modelos-jornada-y-conciliacion-espana",
+      "source": "./plugins/modelos-jornada-y-conciliacion-espana",
+      "description": "Jornada, permisos, teletrabajo y conciliación · España (42 formularios). Sirve para todo lo relativo al tiempo de trabajo: registro de jornada, adaptación de jornada para conciliar, permisos retribuidos, excedencias, trabajo a distancia y desconexión digital. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "jornada-permisos-y-conciliacion"
+      ]
+    },
+    {
+      "name": "modelos-plan-de-igualdad-y-acoso-espana",
+      "source": "./plugins/modelos-plan-de-igualdad-y-acoso-espana",
+      "description": "Planes de igualdad y protocolos de acoso y LGTBI · España (35 formularios). Sirve para cumplir en igualdad y prevenir el acoso: plan de igualdad y su comisión negociadora, protocolos de acoso sexual y por razón de sexo, plan y protocolo LGTBI, y canal de denuncias. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "igualdad-y-acoso"
+      ]
+    },
+    {
+      "name": "modelos-proceso-laboral-espana",
+      "source": "./plugins/modelos-proceso-laboral-espana",
+      "description": "Papeleta, demanda y suplicación en lo social · España (28 formularios). Sirve para pleitear en lo social (LRJS) ante la Sección de lo Social del Tribunal de Instancia: papeleta de conciliación previa, demandas, ejecución de sentencias y acuerdos, recurso de suplicación, revisión y medidas cautelares. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "proceso-laboral"
+      ]
+    },
+    {
+      "name": "modelos-salario-y-condiciones-espana",
+      "source": "./plugins/modelos-salario-y-condiciones-espana",
+      "description": "Reclamar salarios y modificar condiciones · España (23 formularios). Sirve para cambios en las condiciones de trabajo y cuestiones salariales: modificación sustancial de condiciones, sucesión de empresa, salario y diferencias salariales, reclamación de cantidad, anticipos y préstamos al trabajador. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "condiciones-de-trabajo-y-salario"
+      ]
+    },
+    {
+      "name": "modelos-sanciones-a-trabajadores-espana",
+      "source": "./plugins/modelos-sanciones-a-trabajadores-espana",
+      "description": "Cartas de sanción y expediente disciplinario · España (29 formularios). Sirve para sancionar con garantías: cartas de sanción por cada tipo de falta, apercibimientos, pliego de cargos y expediente contradictorio (con aviso a los representantes), y cancelación de antecedentes. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "regimen-disciplinario"
+      ]
+    },
+    {
+      "name": "modelos-seguridad-social-espana",
+      "source": "./plugins/modelos-seguridad-social-espana",
+      "description": "Incapacidad, jubilación y accidentes de trabajo · España (37 formularios). Sirve para prestaciones y contingencias: demandas de reconocimiento de prestaciones, incapacidad permanente, accidente de trabajo y sus indemnizaciones, jubilación (también parcial), complemento de maternidad, cese de actividad e ingreso mínimo vital. Requiere Jurisprudenciator.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "seguridad-social-y-accidentes-de-trabajo"
+      ]
+    }
+  ]
+}

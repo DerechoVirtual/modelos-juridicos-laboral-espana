@@ -1,0 +1,25 @@
+{
+  "name": "modelos-control-empresarial-y-datos-espana",
+  "version": "1.0.0",
+  "description": "Protección de datos y control empresarial: 11 formularios revisados el 17-11-2026, cada uno convertido en una skill que lo rellena paso a paso (RGPD, LOPDGDD, videovigilancia, geolocalización, dispositivos digitales, códigos de conducta). Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+  "author": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "displayName": "Videovigilancia, geolocalización y datos de la plantilla · España",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://jurisprudenciator.lexiaipro.org/politica-de-privacidad",
+  "supportUrl": "https://jurisprudenciator.lexiaipro.org/incidencias",
+  "homepage": "https://jurisprudenciator.lexiaipro.org",
+  "termsOfServiceUrl": "https://jurisprudenciator.lexiaipro.org/terminos-y-condiciones",
+  "keywords": [
+    "jurisprudenciator",
+    "legal",
+    "españa",
+    "formularios",
+    "modelos",
+    "datos-y-control-empresarial"
+  ],
+  "repository": "https://github.com/DerechoVirtual/modelos-juridicos-laboral-espana",
+  "license": "SEE LICENSE IN LICENSE"
+}
