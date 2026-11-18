@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -58,7 +58,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -66,3 +66,60 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0354 · Resolución del contrato de TRADE: comunicación
+
+- Año del modelo: 2017
+- Revisión 17-11-2026: 1 bloques de opciones sin texto dejados en blanco con sus rótulos; 5 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Firmas
+
+Carta de comunicación de la extinción del contrato de TRADE al amparo del artículo 15 de la Ley 20/2007, de 11 de julio, del Estatuto del Trabajo Autónomo, por las siguientes posibles causas:
+
+- Voluntad del trabajador (Desistimiento)
+
+- Voluntad del cliente/empresa por causa justificada, debiendo mediar el preaviso estipulado o conforme a los usos y costumbres
+
+- Voluntad del trabajador fundada en incumplimiento contractual grave del cliente
+
+- Jubilación o invalidez
+
+- Decisión de la trabajadora víctima de violencia de género o violencias sexuales
+
+- Pérdida de la condición de TRADE
+
+- Pérdida de las condiciones necesarias para el ejercicio de la actividad
+
+La LO 10/2022, de 6 de septiembre, de garantía integral de la libertad sexual, ha modificado la letra g) del apartado 1 del art. 15 de la Ley 20/2007, de 11 julio, del Estatuto del trabajo autónomo, ampliando la posibilidad de extinguir el contrato a las víctimas de violencias sexuales.
+
+En [LUGAR], a [FECHA].
+
+A la dirección de [COMPLETAR]
+
+A/A D./Dña. [NOMBRE Y APELLIDOS]
+
+En virtud de la presente les comunico que
+
+[ELEGIR UNA OPCIÓN Y REDACTARLA: Por voluntad del trabajador, desistimiento / Por voluntad del cliente/empresa por causa justificada / Por voluntad del trabajador fundada en incumplimiento contractual grave del cliente / Por jubilación o invalidez / Por decisión de la trabajadora víctima de violencia de género o de violencias sexuales / Por pérdida de la condición de TRADE / Por pérdida de las condiciones necesarias para el ejercicio de la actividad — el texto de cada opción no venía en el formulario original]
+
+Le ruego se sirva firmar la presente en señal de recepción.
+
+Atentamente,
+
+Recibí
+
+TRADE
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+REPRESENTANTE LEGAL DE LA EMPRESA
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+════════════════════════════════════════════════════════════════════════

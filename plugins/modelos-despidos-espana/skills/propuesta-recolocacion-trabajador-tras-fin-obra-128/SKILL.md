@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -58,7 +58,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -66,3 +66,48 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0128 · Propuesta de recolocación al trabajador tras el fin de la obra de construcción
+
+- Año del modelo: 2022
+- Revisión 17-11-2026: 1 bloques de opciones sin texto dejados en blanco con sus rótulos; 11 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Firmas
+
+La propuesta de recolocación, que deberá precisar las condiciones esenciales, ubicación de la obra y fecha de incorporación a la misma, así como las acciones formativas exigibles para ocupar el nuevo puesto, será sometida a aceptación por parte de la persona trabajadora con quince días de antelación a la finalización de su trabajo en la obra en la que se encuentre prestando servicios.
+
+En [LUGAR], a [FECHA].
+
+Estimado Sr./Sra. [NOMBRE Y APELLIDOS],
+
+Por medio de la presente le comunicamos que con fecha [FECHA] finalizará la obra en la que usted viene prestando sus servicios.
+
+De conformidad con lo establecido en la Disposición Adicional Tercera de la Ley 32/2006, de 18 de octubre, reguladora de la subcontratación en el sector de la construcción, y el art. 25 del VII Convenio Colectivo General de la Construcción, la empresa le ofrece una propuesta de recolocación, previo desarrollo, de ser preciso, del correspondiente proceso de formación, en los siguientes términos:
+
+La obra, consistente en [DESCRIBIR], está ubicada en [COMPLETAR]
+
+La jornada de trabajo es a tiempo completo, de [COMPLETAR] a [COMPLETAR], en horario [COMPLETAR].
+
+La fecha de incorporación a la misma es [COMPLETAR]
+
+Para su incorporación al puesto de trabajo
+
+[ELEGIR UNA OPCIÓN Y REDACTARLA: En caso que la persona trabajadora necesite formación para la nueva ocupación / En caso que la persona trabajadora no necesite formación para la nueva ocupación — el texto de cada opción no venía en el formulario original]
+
+Le solicitamos que nos notifique, por escrito y en el plazo de siete días desde la recepción de esta comunicación, su aceptación o rechazo a la propuesta de recolocación efectuada. En caso de no obtener respuesta en el citado plazo se entenderá que rechaza la oferta.
+
+Sin otro particular y rogándole que firme el duplicado de esta comunicación como prueba de su recepción, le saluda atentamente,
+
+Empresa
+
+Recibí
+
+D./Dña. [NOMBRE Y APELLIDOS] 	D./Dña. [NOMBRE Y APELLIDOS]
+
+════════════════════════════════════════════════════════════════════════

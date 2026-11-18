@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -55,7 +55,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -63,3 +63,48 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0322 · Apertura de expediente sancionador: aviso a representantes, sindicato y delegado de prevención
+
+- Año del modelo: 2017
+- Revisión 17-11-2026: 3 desplegables y casillas convertidos en elección en blanco; 11 campos de relleno marcados en blanco; 1 etiquetas sin dato marcadas en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Receptor
+Firmas
+
+Modelo de comunicación a la representación legal de los trabajadores, la representación sindical o al delegado de prevención de apertura de expediente disciplinario previo a la imposición de sanción, a fin de que puedan evacuar el oportuno informe, alegar lo que estimen apropiado y proponer las pruebas que deseen.
+
+A [COMPLETAR].
+
+Att.
+Comité de empresa
+Delegado/s de personal
+Delegado/a sindical
+
+Muy Sr. mío/Sra. mía/Srs. nuestros: [COMPLETAR]
+
+Por la presente comunicación ponemos en su conocimiento los siguientes particulares:
+
+a) Se ha abierto expediente disciplinario previo a una posible sanción disciplinaria en grado de [ELEGIR: grave / muy grave] a D./Dña. [NOMBRE Y APELLIDOS], trabajador/a de esta empresa, que ostenta la condición de miembro del Comité de empresa/Delegado de personal/Delegado sindical/Delegado de prevención.
+b) Dicha persona ha cometido una falta [ELEGIR: grave / muy grave] de [COMPLETAR], tipificada en el art. del vigente Convenio Colectivo de [COMPLETAR] y sancionable conforme a lo establecido en el art. de dicha norma convencional y, en su caso, art. 54.2 del Estatuto de los Trabajadores.
+c) Los hechos que han dado lugar a la apertura del expediente disciplinario son los siguientes: [COMPLETAR].
+d) Se ha nombrado Instructor/a del expediente contradictorio a D./Dña. [NOMBRE Y APELLIDOS], y Secretario/a del mismo a D./Dña. [NOMBRE Y APELLIDOS].
+e) Se ha comunicado esta decisión de apertura de expediente disciplinario a los demás representantes [ELEGIR: legales / sindicales] de las personas trabajadoras, a fin de que en el plazo de [Nº] días, puedan ustedes evacuar el oportuno informe, alegar lo que estimen apropiado y proponer las pruebas que deseen ante el citado Instructor, a los posibles efectos y de conformidad con lo prevenido en los artículos [COMPLETAR] del Convenio colectivo de y/o artículos 55.1 y 68 a) del Estatuto de los Trabajadoresy/o artículo 10.3 de la Ley Orgánica de Libertad Sindical.
+
+Le rogamos acuse recibo y firme copia de la presente a los solos efectos de probar su recepción.
+
+Empresa
+
+Recibí
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+════════════════════════════════════════════════════════════════════════

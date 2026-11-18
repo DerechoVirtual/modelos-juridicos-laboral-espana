@@ -36,8 +36,8 @@ El planteamiento del formulario está desfasado en algo. Corrígelo antes de red
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -63,7 +63,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -71,3 +71,37 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0023 · Pedir trabajo a distancia por la DANA
+
+- Año del modelo: 2024
+- Revisión 17-11-2026: 1 bloques de opciones sin texto dejados en blanco con sus rótulos; 2 campos de relleno marcados en blanco
+- Avisos de la revisión: Medidas excepcionales del RDL 7/2024 (BOE-A-2024-23422, arts. 42-45) ligadas a la DANA de 28-10 a 4-11-2024 y solo mientras duren sus causas; para nuevos episodios rigen el art. 37.3.g) ET (hasta cuatro días por imposibilidad de acceso) y el ERTE de fuerza mayor del art. 47.6 ET. No se ha revisado el RDL 24/2026 (BOE-A-2026-20264), que contiene nuevas medidas DANA.
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Firmas
+
+En los supuestos señalados en el artículo 42.1.a) del Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan medidas urgentes para el impulso del Plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024, las personas trabajadoras tendrán derecho a realizar su jornada en modalidad de trabajo a distancia cuando el estado de las redes de comunicación lo permita, a no ser que ello resulte incompatible con la naturaleza de la prestación laboral.
+
+Att.
+
+En [LUGAR], a [FECHA].
+
+Estimados/as señores/as,
+
+Por medio de la presente, y en virtud de lo establecido en el art. 43 del Real Decreto-ley 7/2024, de 11 de noviembre, por el que se adoptan medidas urgentes para el impulso del Plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024, les solicito realizar mi trabajo en la modalidad de trabajo a distancia por el siguiente motivo:
+
+[ELEGIR UNA OPCIÓN Y REDACTARLA: Estado de las vías de circulación o transporte público / Indicaciones de autoridades — el texto de cada opción no venía en el formulario original]
+
+Atentamente,
+
+Fdo. La persona trabajadora
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+════════════════════════════════════════════════════════════════════════

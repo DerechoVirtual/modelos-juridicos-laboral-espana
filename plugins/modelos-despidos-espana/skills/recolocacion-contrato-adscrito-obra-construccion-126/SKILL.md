@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -56,7 +56,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -64,3 +64,36 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0126 · Recolocación en contrato adscrito a obra de construcción: cláusula
+
+- Año del modelo: 2022
+- Revisión 17-11-2026: 1 bloques de opciones sin texto dejados en blanco con sus rótulos; 7 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+La propuesta de recolocación, que debe precisar las condiciones esenciales, ubicación de la obra y fecha de incorporación a la misma, así como las acciones formativas exigibles para ocupar el nuevo puesto, prevista en la Disposición Adicional Tercera de la Ley 32/2006, de 18 de octubre, reguladora de la subcontratación en el sector de la construcción, y el art. 25 del VII Convenio Colectivo General de la Construcción, debe ser formalizada por escrito mediante una cláusula que se anexará al contrato de trabajo.
+
+I. Condiciones esenciales específicas de la prestación del trabajo en la nueva obra
+
+El trabajo se prestará a jornada completa de [COMPLETAR] a [COMPLETAR], en horario [Nº] horas.
+
+Será de aplicación el calendario laboral de [COMPLETAR]
+
+II. Ubicación de la obra
+
+El lugar de prestación de los servicios, en el que se encuentra ubicada la obra es [COMPLETAR].
+
+III. Fecha de incorporación
+
+La fecha de incorporación a la obra será el día [FECHA], a las [Nº] horas.
+
+IV. Acciones formativas exigibles para ocupar el nuevo puesto
+
+[ELEGIR UNA OPCIÓN Y REDACTARLA: Si para la nueva ocupación la persona trabajadora necesita formación / Si para la nueva ocupación la persona trabajadora no necesita formación — el texto de cada opción no venía en el formulario original]
+
+════════════════════════════════════════════════════════════════════════

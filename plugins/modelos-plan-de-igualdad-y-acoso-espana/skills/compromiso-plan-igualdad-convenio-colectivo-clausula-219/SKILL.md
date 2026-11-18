@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -48,7 +48,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -56,3 +56,34 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0219 · Compromiso con el plan de igualdad en el convenio colectivo: cláusula
+
+- Año del modelo: 2019
+- Revisión 17-11-2026: 1 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Se establecerá en el convenio colectivo el compromiso de las partes a realizar, ejecutar y evaluar el Plan de Igualdad, de conformidad a lo establecido en el capítulo II del Título IV de la LO 3/2007, para la igualdad efectiva de mujeres y hombres, así como de la eliminación de cualquier tipo de discriminación por razón de sexo.
+
+Las partes firmantes se comprometen a la negociación de un Plan de Igualdad en las empresas de su ámbito, en cumplimiento de la Ley Orgánica 3/2007, de 22 de marzo, para la Igualdad Efectiva de Mujeres y Hombres y en aplicación de la previsión convencional que obliga a todas las empresas incluidas en su ámbito funcional a la tenencia de un plan de igualdad. A tal efecto, se creará una Comisión Paritaria de Negociación, encargada de efectuar el diagnóstico de situación y el Plan de Igualdad.
+
+Asimismo, esta Comisión establecerá el procedimiento para la elaboración, evaluación y cumplimiento del citado Plan, respetando lo dispuesto en el RD 901/2020. En el plazo máximo de [Nº] meses desde la firma del convenio, se elaborará el diagnóstico y la empresa facilitará los medios y la información necesaria para su realización y estos datos deberán estar desagregados por sexo.
+
+El Plan de Igualdad contemplará las siguientes materias:
+
+• Acceso al empleo.
+• Clasificación profesional.
+• Promoción.
+• Formación.
+• Retribuciones.
+• Condiciones de trabajo, incluida la auditoría salarial.
+• Ejercicio corresponsable de los derechos de la vida personal, familiar y laboral.
+• Prevención del acoso sexual y acoso por razón de sexo.
+• Cualquier otra materia que sirva para conseguir y fomentar la igualdad efectiva entre hombres y mujeres.
+
+════════════════════════════════════════════════════════════════════════

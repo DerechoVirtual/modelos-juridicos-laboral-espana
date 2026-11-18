@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -75,7 +75,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -83,3 +83,58 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0368 · Despido disciplinario o reclamación de cantidad: papeleta de conciliación en el SMAC
+
+- Año del modelo: 2016
+- Revisión 17-11-2026: 2 desplegables y casillas convertidos en elección en blanco; 1 desplegables convertidos en elección en blanco; 3 bloques de opciones sin texto dejados en blanco con sus rótulos; 11 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+HECHOS
+SUPLICO AL SERVICIO DE MEDIACIÓN, ARBITRAJE Y CONCILIACIÓN
+Firmas
+
+En virtud del art. 103.1 LRJS, el trabajador podrá reclamar contra el despido, dentro de los veinte días hábiles siguientes a aquel en que se hubiera producido. Dicho plazo será de caducidad a todos los efectos y no se computarán los sábados, domingos y los festivos en la sede del órgano jurisdiccional.
+
+El plazo para interponer una reclamación de cantidad es de un año desde el momento en que se pudieron reclamar (art. 59.1 ET).
+
+Los juicios por despido, así como las reclamaciones de cantidad, requieren previamente, conforme al art. 63 LRJS, el intento de conciliación o, en su caso, de mediación ante el servicio administrativo correspondiente o ante el órgano que asuma estas funciones, que podrá constituirse mediante los acuerdos interprofesionales o los convenios colectivos a los que se refiere el artículo 83 ET, así como mediante los acuerdos de interés profesional a los que se refiere la Ley del Estatuto del Trabajo Autónomo.
+
+La presentación de la solicitud de conciliación o de mediación interrumpirá la prescripción o suspenderá la caducidad de acciones desde la fecha de dicha presentación, reiniciándose o reanudándose respectivamente el cómputo de los plazos al día siguiente de intentada la conciliación o mediación o transcurridos quince días hábiles desde su presentación sin que se haya celebrado. (art. 65.1 LRJS)
+
+La papeleta de conciliación ante el Servicio de Mediación, Arbitraje y Conciliación (SMAC) se podrá presentar telemáticamente a través de las oficinas virtuales o sedes electrónicas de las correspondientes Comunidades Autónomas. Cuando se presenta de esta forma se cumplimenta en línea el impreso de solicitud al que se puede anexa cualquier documentación complementaria, entre la que se recomienda adjuntar la papeleta de conciliación redactada con detalle.
+
+Actualizado según las modificaciones introducidas por la Ley Orgánica 1/2025, de 2 de enero, de medidas en materia de eficiencia del Servicio Público de Justicia.
+
+AL SERVICIO DE MEDIACIÓN, ARBITRAJE Y CONCILIACIÓN DE [COMPLETAR]
+
+D./Dña. [NOMBRE Y APELLIDOS] con [ELEGIR: DNI / NIE / Pasaporte] nº [NÚMERO], con domicilio a efectos de notificaciones en [DOMICILIO A EFECTOS DE NOTIFICACIONES], teléfono [TELÉFONO], correo electrónico, ante este Organismo comparezco y, como mejor proceda en Derecho DIGO
+
+[ELEGIR UNA OPCIÓN Y REDACTARLA: Si la papeleta de conciliación es por despido nulo o improcedente / Si la papeleta de conciliación es en reclamación de cantidad — el texto de cada opción no venía en el formulario original]
+
+La presente papeleta tiene su base en los siguientes:
+
+HECHOS
+
+PRIMERO.- Que he prestado mis servicios para la empresa demandada en virtud de una relación laboral [ELEGIR: indefinida / temporal] a tiempo [ELEGIR: completo / parcial] en virtud de un contrato laboral suscrito el día [FECHA].
+
+SEGUNDO.- Que dicho trabajo lo he prestado en el centro de trabajo que la empresa tiene en [COMPLETAR], en el grupo profesional correspondiente a la categoría de [COMPLETAR], con un horario de [Nº] horas.
+
+[ELEGIR UNA OPCIÓN Y REDACTARLA: Si la papeleta de conciliación es por despido nulo o improcedente / Si la papeleta de conciliación es en reclamación de cantidad — el texto de cada opción no venía en el formulario original]
+
+En su virtud,
+
+SUPLICO AL SERVICIO DE MEDIACIÓN, ARBITRAJE Y CONCILIACIÓN
+
+[ELEGIR UNA OPCIÓN Y REDACTARLA: Si la papeleta de conciliación es por despido nulo o improcedente / Si la papeleta de conciliación es en reclamación de cantidad — el texto de cada opción no venía en el formulario original]
+
+Es Justicia que pido en [LUGAR], a [FECHA].
+
+Fdo.: D./Dña. [NOMBRE Y APELLIDOS]
+
+════════════════════════════════════════════════════════════════════════

@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -46,7 +46,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -54,3 +54,74 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0045 · Llamamiento a la actividad de fijos discontinuos: comunicación (en valenciano)
+
+- Año del modelo: 2024
+- Revisión 17-11-2026: 10 casillas del modelo oficial marcadas en blanco; 4 llamadas a nota sin texto retiradas; 15 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+COMUNICACIÓ DE CRIDA A L’ACTIVITAT DE LES PERSONES TREBALLADORES FIXES DISCONTÍNUES
+
+DADES DE L’EMPRESA
+CIF/NIF/NIE: [COMPLETAR]
+
+SR./SRA. NIF/NIE: [COMPLETAR]
+
+EN CONCEPTE
+
+NOM O RAÓ SOCIAL DE L’EMPRESA: [COMPLETAR]
+
+DOMICILI SOCIAL: [COMPLETAR]
+
+MUNICIPI: [COMPLETAR]
+
+CODI POSTAL [COMPLETAR] PAÍS: [COMPLETAR]
+
+DADES DEL COMPTE DE COTITZACIÓ
+RÈGIM [COMPLETAR] CODI (CCC): [COMPLETAR]
+
+ACTIVITAT ECONÒMICA: [COMPLETAR]
+
+DADES DEL CENTRE DE TREBALL
+MUNICIPI: [COMPLETAR]
+
+CODI POSTAL [COMPLETAR] PAÍS: [COMPLETAR]
+
+A l’efecte de realitzar la crida prevista en l’article 16 del reial decret legislatiu 2/2015, de 23 d’octubre, pel qual s’aprova el text refós de la Llei de [COMPLETAR]
+l’Estatut dels Treballadors, i si és el cas, garantint l’ocupació prevista en el conveni col·lectiu de [COMPLETAR]
+
+es comunica a LES PERSONES TREBALLADORES QUE A CONTINUACIÓ ES RELACIONEN:
+                                                                                                   DATA [COMPLETAR] DATA [COMPLETAR] Núm. REGISTRE O
+      COGNOMS I NOM [COMPLETAR] NIF/NIE
+                                                                                                   INICI [COMPLETAR] FI PREVISTA [COMPLETAR] COMUNICACIÓ CONTRACTE
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+
+  Signatura i segell de l’Oficina [COMPLETAR] A [COMPLETAR] el [COMPLETAR] de [COMPLETAR] de [COMPLETAR] Per l’empresa
+
+   Director/a, Gerent, etc.
+   PROTECCIÓ DE DADES. - Les dades consignades en el present model tindran la protecció derivada del Reglament (UE) 2016/679 del Parlament Europeu, de 27
+      d’abril de 2016 i de la Llei orgànica 3/2018, de 5 de desembre..
+
+════════════════════════════════════════════════════════════════════════

@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -62,7 +62,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -70,3 +70,86 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0229 · Cláusulas adicionales del contrato de grupo
+
+- Año del modelo: 2019
+- Revisión 17-11-2026: saltos de párrafo recuperados (texto venía pegado); 7 párrafos opcionales señalados; 6 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Al contrato de trabajo de grupo se pueden añadir cláusulas:
+
+- Descripción de las labores.
+
+- Duración del contrato.
+
+- Distribución de la retribución.
+
+- Jornada.
+
+- Vacaciones.
+
+- Cambios en los componentes del grupo.
+
+[OPCIONAL — incluir si procede]
+
+(Descripción de las labores)
+
+Objeto del contrato
+
+Que el objeto del presente contrato será la realización por parte del grupo de las siguientes labores: [COMPLETAR].
+
+[OPCIONAL — incluir si procede]
+
+(Duración del contrato)
+
+Duración del contrato
+
+Que la duración del presente contrato será desde [COMPLETAR] hasta la finalización efectiva de las labores señaladas.
+
+[OPCIONAL — incluir si procede]
+
+(Distribución de la retribución)
+
+Distribución de la retribución
+
+Como contraprestación a las labores desarrolladas por el grupo se pacta una retribución global de [IMPORTE] € brutos mensuales.
+
+Dicha suma se entregará íntegramente al jefe del grupo al que autorizan de forma expresa para tal función el resto de sus compañeros, el cual repartirá dicha cuantía en función de los criterios que internamente el propio grupo haya acordado. Una vez que la empresa contratante haya otorgado la suma especificaa, previa firma del correspondiente recibo, al jefe del grupo, aquélla quedará totalmente libre de cualquier reclamación que en este sentido se pueda generar en el señalado colectivo.
+
+[OPCIONAL — incluir si procede]
+
+(Jornada)
+
+Jornada
+
+La jornada de trabajo será de [Nº] horas semanales. Estableciéndose un horario concreto de [COMPLETAR].
+
+[OPCIONAL — incluir si procede]
+
+(Vacaciones)
+
+Vacaciones
+
+El período de vacaciones individuales a disfrutar por el grupo tendrá una duración de [Nº] días naturales.
+
+[OPCIONAL — incluir si procede]
+
+(Cambios en los componentes del grupo)
+
+Cambios en los componentes del grupo
+
+Cualquier cambio, modificación o variación en los componentes del grupo deberá ser previamente notificado por su jefe a la representación de la empresa contratante, lo que deberá ser consentido expresamente por ésta. De no ser así, la empresa queda autorizada para resolver el contrato con el grupo en su integridad.
+
+[OPCIONAL — incluir si procede]
+
+Cláusula de remisión
+
+En todo lo no previsto en el presente contrato se estará a lo dispuesto en la legislación laboral vigente y aplicable, y, más concretamente, en el art. 10.2 del ET y en el Convenio Colectivo Sectorial.
+
+════════════════════════════════════════════════════════════════════════

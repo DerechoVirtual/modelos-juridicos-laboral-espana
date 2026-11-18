@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -64,7 +64,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -72,3 +72,46 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0194 · Fin del ERTE y reincorporación al trabajo: carta al trabajador
+
+- Año del modelo: 2020
+- Revisión 17-11-2026: 3 desplegables y casillas convertidos en elección en blanco; 1 desplegables convertidos en elección en blanco; 1 párrafos opcionales señalados; 10 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Firmas
+
+Comunicación al trabajador de la finalización del ERTE en el que se encontraba afectado para que se reincorpore a la actividad laboral.
+
+En [COMPLETAR]
+
+Estimado/a Sr./Sra. [NOMBRE Y APELLIDOS],
+
+Por medio de la presente la dirección de la empresa le comunica que, con efectos desde el próximo día [FECHA], dejará de estar en vigor el Expediente de Regulación Temporal de Empleo nº [Nº DE EXPEDIENTE] presentado por la empresa [ELEGIR: por causas económicas / por causas técnicas / por causas organizativas / por fuerza mayor temporal / en aplicación del Mecanismo RED de Flexibilidad y Estabilización del Empleo] y que ha supuesto la [ELEGIR: suspensión de su contrato de trabajo / reducción de su jornada laboral] desde el pasado día [FECHA].
+
+Por todo ello, con fecha [FECHA] deberá usted reincorporarse [ELEGIR: a su puesto de trabajo / a su puesto de trabajo a jornada completa], en su horario habitual de [COMPLETAR] a [Nº] horas.
+
+La finalización de las medidas de [ELEGIR: suspensión / reducción] de jornada ya han sido comunicadas por la empresa a la Autoridad Laboral, la Seguridad Social y el Servicio Público de Empleo a los efectos oportunos, no teniendo que realizar usted ninguna gestión en relación con su reincorporación.
+
+[OPCIONAL — incluir si procede]
+
+Asimismo se han comunicado estos extremos a la representación legal de los trabajadores.
+
+Le ruego firme el duplicado de esta carta como prueba de su recepción.
+
+Atentamente,
+
+Empresa
+
+Recibí
+
+Persona Trabajadora
+
+D./Dña. [NOMBRE Y APELLIDOS] 	D./Dña. [NOMBRE Y APELLIDOS]
+
+════════════════════════════════════════════════════════════════════════

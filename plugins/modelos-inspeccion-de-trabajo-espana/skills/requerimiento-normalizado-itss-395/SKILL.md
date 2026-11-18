@@ -36,8 +36,8 @@ El planteamiento del formulario está desfasado en algo. Corrígelo antes de red
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -60,7 +60,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -68,3 +68,66 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0395 · Requerimiento normalizado de la ITSS
+
+- Año del modelo: 2015
+- Revisión 17-11-2026: 1 puntualizaciones normativas añadidas en el texto; 2 campos de relleno marcados en blanco; 10 etiquetas sin dato marcadas en blanco
+- Avisos de la revisión: El agravante por incumplir requerimientos va en el art. 39.2 LISOS; el 39.3.f solo para PRL.
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+REQUERIMIENTO
+Datos de la empresa
+Actuación inspectora
+Firmas
+Requerimiento
+REQUERIMIENTO
+
+Datos Generales
+
+Nº Orden de Servicio [COMPLETAR]
+
+Fecha de la actuación inspectora: [COMPLETAR]
+
+Datos Empresa
+
+Nombre o Razón Social: [COMPLETAR]
+
+Actividad: [COMPLETAR]
+
+N.I.F. o C.I.F.: [COMPLETAR]
+
+C.C.C: [COMPLETAR]
+
+Domicilio Social/Centro trabajo: [COMPLETAR]
+
+Localidad: [COMPLETAR]
+
+Provincia: [COMPLETAR]
+
+Código Postal [C.P.]
+
+En aplicación de lo dispuesto en los apartados 1, 2 del art. 22 de la Ley 23/2015, Ordenadora del Sistema de Inspección de Trabajo y Seguridad Social, se formula a la empresa el siguiente REQUERIMIENTO, al haberse apreciado las deficiencias que se indican, a subsanar en los plazos que se establecen en el texto del requerimiento.
+
+Se advierte a la empresa que el incumplimiento de este requerimiento podrá dar lugar a la extensión de la correspondiente acta de infracción por los hechos detectados, de no haberse extendido inicialmente. El incumplimiento de las advertencias previas y requerimientos de la Inspección de Trabajo y Seguridad Social, podrá ser apreciado como circunstancia agravante en la graduación de la sanción, según establece el art. 39 en sus apartados 2 y 3 f) [NOTA DE REVISIÓN: El art. 39.3.f solo opera en prevención de riesgos (advertencias o requerimientos del art. 43 LPRL); en las demás materias el criterio está en el art. 39.2. Fuente: RDLeg 5/2000 (LISOS), BOE-A-2000-15060, art. 39.2 y 39.3.f.] del Real Decreto Legislativo 5/2000, de 4 de agosto, por el que se aprueba el Texto Refundido de la Ley de Infracciones y Sanciones en el Orden Social (TRLISOS).
+
+NOTIFICADO
+
+NOTIFICADO EL REPRESENTANTE DE LA EMPRESA	NOTIFICADO DELEGADO DE PREVENCIÓN	EL/LA INSPECTOR/A DE TRABAJO Y SEGURIDAD SOCIAL
+Nombre: 	Nombre: 	Nombre:
+DNI.: 	DNI.: 	DNI.:
+
+HECHOS CONSTATADOS:
+
+PRECEPTOS INFRINGIDOS/VULNERADOS: [COMPLETAR]
+
+PLAZO SUBSANACION: [COMPLETAR]
+
+IMPORTE MÍNIMO Y MÁXIMO DE SANCIÓN CORRESPONDIENTE A LOS PRECEPTOS INFRINGIDOS:
+
+════════════════════════════════════════════════════════════════════════

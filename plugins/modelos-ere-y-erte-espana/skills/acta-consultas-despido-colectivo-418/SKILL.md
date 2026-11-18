@@ -37,8 +37,8 @@ El planteamiento del formulario está desfasado en algo. Corrígelo antes de red
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -56,7 +56,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -64,3 +64,52 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0418 · Acta de consultas del despido colectivo
+
+- Año del modelo: 2014
+- Revisión 17-11-2026: 14 campos de relleno marcados en blanco
+- Avisos de la revisión: Despido colectivo: art. 51 ET (consultas de hasta 30 días, 15 si menos de 50 trabajadores; comisión constituida en 7 días o 15 sin representantes; plan de recolocación externa de al menos seis meses si afecta a más de 50) y RD 1483/2012.
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+ACTA
+
+Asistentes
+
+Por la empresa [COMPLETAR]
+
+Asesorados por [COMPLETAR]
+
+Por los/as trabajadores/as [COMPLETAR]
+
+Asesorados por [COMPLETAR]
+
+En [COMPLETAR] a las [Nº] horas se reúnen en la sede de esta empresa, los representantes de ésta y de los trabajadores relacionados, iniciando las consultas sobre el procedimiento de despido colectivo promovido por la empresa
+
+1. Procede a abrir el período de consultas la empresa, por la que interviene D./Dña [NOMBRE Y APELLIDOS], quien expone:
+
+a) Que es objeto de esta reunión analizar las causas que se aducen para solicitar la adopción de extinción de los contratos de trabajo, con la finalidad de adoptar un acuerdo acerca de las medidas pretendidas por la empresa y en la documentación incluida en el escrito de apertura del período de consultas.
+
+b) Las medidas pretendidas que pretende promover la misma están fundamentadas en causas [COMPLETAR]
+
+c) La exposición de las razones que avalan las medidas se recogen en la memoria presentada en el escrito de iniciación del período de consultas, de la que se hace un resumen, y que las partes tienen en su poder. Así como en la documentación adjuntada en el escrito de inicio del período de consultas.
+
+2. Por los representantes de los trabajadores intervienen:
+
+a) D./Dña. [NOMBRE Y APELLIDOS], quien ante lo anterior expone
+
+b) D./Dña. [NOMBRE Y APELLIDOS], quien ante lo anterior expone
+
+c) D./Dña. [NOMBRE Y APELLIDOS], quien ante lo anterior expone
+
+3. Siendo las [Nº] horas y ante la imposibilidad de concluir la presente reunión de modo satisfactorio, las partes negociadoras dan por finalizada la misma, recordando la continuación de las consultas en nueva reunión que, conforme al calendario acordado, se celebrará el próximo día [FECHA], a las [Nº] horas, en el centro de trabajo
+
+La representación de los trabajadores	Los representantes de la empresa
+Fdo.: 	Fdo.:
+
+================================================================================

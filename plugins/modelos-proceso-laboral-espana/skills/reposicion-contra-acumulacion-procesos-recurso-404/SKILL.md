@@ -31,8 +31,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -60,7 +60,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -68,3 +68,38 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0404 · Reposición contra la acumulación de procesos: recurso
+
+- Año del modelo: 2015
+- Revisión 17-11-2026: 20 campos de relleno marcados en blanco; 1 encabezamientos del órgano social completados (Sección de lo Social del Tribunal de Instancia, LO 1/2025); 2 huecos del original que se habían perdido sin marca, marcados (NOMBRE Y APELLIDOS, Nº DE PROCEDIMIENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+A la Sección de lo Social del Tribunal de Instancia de [SEDE]
+
+D. [NOMBRE Y APELLIDOS], mayor de edad, con domicilio en [LOCALIDAD], y DNI nº [DNI/NIE], demandado en autos [COMPLETAR], promovidos por [COMPLETAR] contra el exponente, sobre [DESCRIBIR], respetuosamente comparezco y, como más procedente sea en Derecho, digo:
+
+Que solicitada por [COMPLETAR] la acumulación de los referidos autos al proceso [COMPLETAR], seguido a instancia de [NOMBRE DEL SOLICITANTE], contra [ACTO O RESOLUCIÓN], sobre [DESCRIBIR], vengo a interponer recurso de reposición contra la pretendida acumulación con base en los siguientes razonamientos:
+
+Primero.— Que en fecha [FECHA] se me ha notificado la resolución dictada por ese Tribunal el día [FECHA], en virtud de la cual se procede a la acumulación de los autos nº [Nº DE PROCEDIMIENTO] a los autos nº [Nº DE PROCEDIMIENTO]
+
+Segundo.— La resolución recurrida incurre en la siguiente infracción: [COMPLETAR], por los siguientes motivos: (no ser acumulables los procesos, ejercitarse acciones distintas, haberse tramitado en procedimientos administrativos separados, etc.).
+
+Por lo expuesto, y en virtud de lo establecido en el artículo 186 de la Ley reguladora de la Jurisdicción Social,
+
+SUPLICO AL TRIBUNAL que, habiendo por presentado este escrito con sus copias, tenga por interpuesto en tiempo y forma recurso de reposición contra la resolución de fecha [FECHA] para [COMPLETAR], previa su legal tramitación, dictar auto por el que se estime el recurso y se acuerde dejar sin efecto la acumulación de los autos nº [Nº DE PROCEDIMIENTO] a los autos nº [Nº DE PROCEDIMIENTO].
+
+Pues así procede en justicia, a cuyo título lo pido en [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+Firma
+
+Normativa aplicable
+
+– Ley reguladora de la Jurisdicción Social: Artículos 28 a 32 y 186 y 187.
+
+================================================================================

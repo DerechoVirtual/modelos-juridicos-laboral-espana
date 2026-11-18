@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -72,7 +72,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -80,3 +80,51 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0030 · Pedir ampliación del plazo del requerimiento de la Inspección de Trabajo
+
+- Año del modelo: 2024
+- Revisión 17-11-2026: 4 desplegables y casillas convertidos en elección en blanco; 1 párrafos repetibles señalados; 1 bloques de alternativas señalados; 18 campos de relleno marcados en blanco; 2 etiquetas sin dato marcadas en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+A LA INSPECCIÓN PROVINCIAL DE TRABAJO Y SEGURIDAD SOCIAL DE Localidad
+Firmas
+
+Modelo de solicitud de ampliación del plazo para cumplir el requerimiento efectuado por la Inspección de Trabajo a una empresa.
+
+Acta: [COMPLETAR]
+
+Expte.: [COMPLETAR]
+
+A LA INSPECCIÓN PROVINCIAL DE TRABAJO Y SEGURIDAD SOCIAL DE [COMPLETAR]
+
+D./Dña. [NOMBRE Y APELLIDOS], en nombre y representación de [NOMBRE DEL REPRESENTADO/A], NIF nº [NIF], CCC [COMPLETAR], y domicilio en [LOCALIDAD], [ELEGIR: según escritura de poder que a este escrito se acompaña / según tengo acreditado en el Expediente de referencia], ante ese Organismo comparezco como mejor proceda en Derecho D I G O [COMPLETAR]:
+
+PRIMERO.-
+
+[ELEGIR UNA DE LAS ALTERNATIVAS QUE SIGUEN Y SUPRIMIR LAS DEMÁS]
+
+Que con fecha [FECHA] se ha notificado a la empresa requerimiento para que el día [FECHA] presente en las oficinas de la Inspección de Trabajo y Seguridad Social sita en [LOCALIDAD] ante el Inspector de Trabajo D./Dña. [NOMBRE Y APELLIDOS], la siguiente documentación:
+
+[OPCIONAL — repetir el párrafo siguiente tantas veces como haga falta]
+
+- [COMPLETAR]
+
+Que con fecha [FECHA] se ha notificado a la empresa requerimiento para que, en virtud [ELEGIR: del Acta / de la Resolución], y en el plazo de [Nº] días, justifique la realización de [COMPLETAR].
+
+SEGUNDO.- Que dado [COMPLETAR] la empresa necesita más tiempo para poder cumplir con el requerimiento efectuado, por lo que se solicita [ELEGIR: una ampliación del plazo / un cambio de fecha] para poder cumplir debidamente con el citado requerimiento.
+
+Por lo expuesto,
+
+SOLICITO A LA INSPECCIÓN PROVINCIAL DE TRABAJO que, teniendo por presentado escrito (en su caso, con la documentación que se acompaña), lo admita y [ELEGIR: amplíe el plazo concedido para poder atender el requerimiento efectuado / cambie la fecha de la comparecencia ante la Inspección a otra posterior] con el fin de poder cumplir debidamente con dicho requerimiento.
+
+Por ser de Justicia que se pide en [LUGAR], a [FECHA].
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+════════════════════════════════════════════════════════════════════════

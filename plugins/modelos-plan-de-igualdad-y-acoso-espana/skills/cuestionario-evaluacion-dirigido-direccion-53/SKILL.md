@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -55,7 +55,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -63,3 +63,83 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0053 · Cuestionario de evaluación dirigido a la dirección
+
+- Año del modelo: 2023
+- Revisión 17-11-2026: 21 desplegables y casillas convertidos en elección en blanco; 1 etiquetas sin dato marcadas en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+La fase de evaluación cierra el proceso de elaboración e implantación de un plan de igualdad en la empresa. Permite conocer el grado de cumplimiento de los objetivos definidos y de las medidas del plan ejecutadas.
+
+Según el art. 9 del RD 901/2020 la evaluación de las medidas previstas en el plan de igualdad deberá realizarse de forma periódica conforme se estipule en el calendario de actuaciones del plan de igualdad o en el reglamento que regule la composición y funciones de la comisión encargada del seguimiento del plan de igualdad.
+
+No obstante, se realizará al menos una evaluación intermedia y otra final, así como cuando sea acordado por la comisión de seguimiento.
+
+DATOS
+
+Puesto/Cargo: [COMPLETAR]
+Antigüedad: [ELEGIR: Menos de 2 años / Entre 2 y 5 años / Más de 5 años]
+Sexo [ELEGIR: Hombre / Mujer]
+Edad [ELEGIR: Menos de 45 años / 45 años o más]
+
+CUESTIONARIO
+
+1. ¿Consideras que ha mejorado la situación de igualdad de la empresa con el Plan de Igualdad implementado?: [ELEGIR: Sí / No]
+
+2. ¿Crees que el Plan de Igualdad ha ayudado a cambiar la cultura de la empresa?: [ELEGIR: Sí / No]
+
+3. ¿Las acciones que se han desarrollado han servido para sensibilizarte y tener más presente las situaciones de desigualdad de género?: [ELEGIR: Sí / No]
+
+4. ¿Crees que las decisiones que se toman en la empresa son analizadas para conocer el impacto de género que producen?: [ELEGIR: Sí / No]
+
+5. El Plan de Igualdad ¿ha influido de alguna manera en las decisiones empresariales?: [ELEGIR: Sí / No]
+
+Indicar cuáles y en qué sentido han influido:
+
+6. ¿Ha habido dificultades en el proceso que han hecho que algunas acciones no se pudieran implementar en tu área de responsabilidad?: [ELEGIR: Sí / No]
+
+¿Cuáles?
+
+7. ¿Consideras que ha aportado valor a la empresa o a tu área de responsabilidad?: [ELEGIR: Sí / No]
+
+8. ¿Ha cambiado la estructura de la dirección en relación al número de mujeres y hombres?: [ELEGIR: Sí / No]
+
+9. ¿El Plan de Igualdad se ha visibilizado externamente como un valor (entre la clientela, las empresas proveedoras)?: [ELEGIR: Sí / No]
+
+10. ¿Crees que ha servido para:
+
+• ajustar condiciones laborales de las mujeres (salarios, contratos...)?: [ELEGIR: Sí / No]
+
+• mejorar las políticas de conciliación en la empresa?: [ELEGIR: Sí / No]
+
+• mejorar las políticas de corresponsabilidad en la empresa?: [ELEGIR: Sí / No]
+
+• aumentar la presencia y participación de mujeres en la toma de decisiones?: [ELEGIR: Sí / No]
+
+• cambiar la mentalidad de uso del tiempo y presencia en el trabajo?: [ELEGIR: Sí / No]
+
+• tomar conciencia de las barreras, discriminaciones y estereotipos de género?: [ELEGIR: Sí / No]
+
+• equilibrar la plantilla en relación con el número de mujeres y hombres?: [ELEGIR: Sí / No]
+
+extender el uso del lenguaje y comunicación no sexista?: [ELEGIR: Sí / No]
+
+• que mujeres y hombres tengan efectivamente las mismas oportunidades?: [ELEGIR: Sí / No]
+
+• otras? Indicar cuáles
+
+11. ¿Qué destacarías como más positivo del proceso de implantación del plan de igualdad?
+
+12. ¿Qué destacarías como más negativo del proceso de implantación del plan de igualdad?
+
+13. ¿Qué acciones consideras que han sido más efectivas?
+
+14. ¿Qué acciones consideras que se necesitarían mejorar?
+
+════════════════════════════════════════════════════════════════════════

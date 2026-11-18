@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -66,7 +66,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -74,3 +74,42 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0161 · Carta para constituir la comisión negociadora del plan de igualdad
+
+- Año del modelo: 2021
+- Revisión 17-11-2026: 1 desplegables y casillas convertidos en elección en blanco; 1 bloques de opciones sin texto dejados en blanco con sus rótulos; 1 bloques de alternativas señalados; 8 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+El art. 5 del RD 901/2020 regula cómo debe constituirse la Comisión Negociadora del Plan de Igualdad.
+
+A través de esta carta se convoca a la representación legal de las personas trabajadoras o a los sindicatos respresentativos del sector (en caso de no existir tal representación) para la constitución de dicha Comisión.
+
+[ELEGIR UNA DE LAS ALTERNATIVAS QUE SIGUEN Y SUPRIMIR LAS DEMÁS]
+
+Att. [ELEGIR: Comité de empresa / Delegados de personal / Sección sindical] de [LOCALIDAD]
+
+Att. Sindicato [COMPLETAR]
+
+En [LUGAR], a [FECHA].
+
+Estimados señores,
+
+Con fecha [FECHA] la empresa [COMPLETAR] tiene la intención de iniciar el procedimiento de negociación de un Plan de Igualdad conforme a lo previsto en el Real Decreto 901/2020, de 13 de octubre, por el que se regulan los planes de igualdad y su registro.
+
+[ELEGIR UNA OPCIÓN Y REDACTARLA: Si hay representación legal de las personas trabajadoras / Si no hay representación legal de las personas trabajadoras — el texto de cada opción no venía en el formulario original]
+
+Por todo ello les rogamos que, tras acusar recibo de esta comunicación, nos respondan a esta convocatoria, indicándonos las personas que van a formar parte de la comisión y los datos necesarios para su constitución.
+
+La persona de contacto en la empresa es D./Dña. [NOMBRE Y APELLIDOS], a la que pueden localizar en el teléfono [TELÉFONO] o correo electrónico [CORREO ELECTRÓNICO] para comentar cualquier cuestión en relación con esta convocatoria.
+
+A la espera de sus noticias y sin otro particular, les saluda atentamente,
+
+Fdo. La Empresa
+
+════════════════════════════════════════════════════════════════════════

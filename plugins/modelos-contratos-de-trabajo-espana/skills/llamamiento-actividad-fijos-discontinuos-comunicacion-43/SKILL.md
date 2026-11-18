@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -51,7 +51,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -59,3 +59,74 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0043 · Llamamiento a la actividad de fijos discontinuos: comunicación (en gallego)
+
+- Año del modelo: 2024
+- Revisión 17-11-2026: 10 casillas del modelo oficial marcadas en blanco; 4 llamadas a nota sin texto retiradas; 12 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+COMUNICACIÓN DE CHAMAMENTO Á ACTIVIDADE DAS PERSOAS TRABALLADORAS FIXAS DESCONTINUAS
+
+DATOS DA EMPRESA
+CIF/NIF/NIE: [COMPLETAR]
+
+D./DNA. NIF/NIE: [COMPLETAR]
+
+EN CONCEPTO
+
+NOME OU RAZÓN SOCIAL DA EMPRESA: [COMPLETAR]
+
+DOMICILIO SOCIAL: [COMPLETAR]
+
+CONCELLO: [COMPLETAR]
+
+CÓDIGO POSTAL [C.P.] PAÍS: [COMPLETAR]
+
+DATOS DA CONTA DE COTIZACIÓN
+RÉXIME [COMPLETAR] CÓDIGO CONTA DE COTIZACIÓN: [COMPLETAR]
+
+ACTIVIDADE ECONÓMICA: [COMPLETAR]
+
+DATOS DO CENTRO DE TRABALLO
+CONCELLO: [COMPLETAR]
+
+CÓDIGO POSTAL [C.P.] PAÍS: [COMPLETAR]
+
+A efectos de realizar o chamamento previsto no artigo 16 do Real Decreto Lexislativo 2/2015, do 23 de outubro, polo que se aproba o texto refundido
+da Lei do Estatuto dos Traballadores, e no seu caso, garantindo a ocupación prevista no convenio colectivo de [COMPLETAR]
+
+comunícase ás PERSOAS TRABALLADORAS QUE A CONTINUACIÓN SE RELACIONAN:
+                                                                                               DATA [COMPLETAR] DATA [COMPLETAR] Nº REXISTRO OU
+      APELIDOS E NOME [COMPLETAR] NIF/NIE
+                                                                                               INICIO [COMPLETAR] FIN PREVISTA [COMPLETAR] COMUNICACIÓN CONTRATO
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+
+      Firma e selo da Oficina [COMPLETAR] En [LUGAR], a [DÍA] de [MES] de [AÑO].Pola empresa
+
+   Director/a, Xerente, etc.
+   PROTECCIÓN DE DATOS. - Os datos consignados no presente modelo terán a protección derivada do Regulamento (UE) 2016/679 do Parlamento Europeo, do 27 de [COMPLETAR]
+      abril de 2016 e da Lei Orgánica 3/2018, do 5 de decembro.
+
+════════════════════════════════════════════════════════════════════════

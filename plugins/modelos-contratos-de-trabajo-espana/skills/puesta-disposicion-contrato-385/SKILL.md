@@ -36,8 +36,8 @@ El planteamiento del formulario está desfasado en algo. Corrígelo antes de red
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -61,7 +61,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -69,3 +69,80 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0385 · Puesta a disposición: contrato
+
+- Año del modelo: 2015
+- Revisión 17-11-2026: 16 llamadas a nota sin texto retiradas; 22 campos de relleno marcados en blanco; 4 huecos del original que se habían perdido sin marca, marcados (COMPLETAR, DÍA, LUGAR, MES)
+- Avisos de la revisión: Los contratos de puesta a disposición solo caben en los supuestos del art. 15 ET (circunstancias de la producción o sustitución) y de contrato formativo; el art. 6.2 de la Ley 14/1994 consolidado aún habla de «prácticas» y «formación y aprendizaje», hoy contratos formativos del art. 11 ET.
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 284 [COMPLETAR] Lunes 25 de noviembre de 2024 [COMPLETAR] Sec. I. Pág. 158212
+
+                                                                                        ANEXO II
+
+                                                          Contrato de puesta a disposición (CPD)
+
+                                                                    EMPRESA DE TRABAJO TEMPORAL
+           Don/Doña [NOMBRE Y APELLIDOS] DNI [DNI/NIE] En concepto de [COMPLETAR]
+           Nombre o razón social [COMPLETAR] NIF [NIF] CCC
+           Domicilio [COMPLETAR] Localidad
+           Número de autorización
+                   Director/a, gerente, etc.
+
+                                                                                EMPRESA USUARIA
+           Don/Doña [NOMBRE Y APELLIDOS] DNI [DNI/NIE] En concepto de [COMPLETAR]
+           Nombre o razón social [COMPLETAR] NIF [NIF] CCC
+           Domicilio [COMPLETAR] Localidad [COMPLETAR] Provincia
+           Domicilio del centro de trabajo [COMPLETAR] Localidad [COMPLETAR] Provincia
+                   Director/a, gerente, etc.
+
+                                                                     SUPUESTO DE CELEBRACIÓN
+
+                  Deberá indicarse el supuesto de celebración del CPD con expresión concreta de la causa que lo justifica, según lo previsto en el
+           artículo 6.2 de la Ley 14/1994, de 1 de junio.
+                  En los supuestos de contrato formativo de formación en alternancia deben consignarse los datos de la persona tutora designada por [COMPLETAR]
+           la empresa usuaria y ha de adjuntarse el plan formativo individual, según lo previsto en el acuerdo de cooperación concertado con el
+           centro o entidad formativa.
+
+                                                           CARACTERÍSTICAS DEL PUESTO DE TRABAJO
+           Cualificación requerida
+           Funciones
+           Información sobre riesgos laborales del puesto de trabajo y medidas preventivas
+           Lugar y horario de trabajo [COMPLETAR] Servicios comunes e instalaciones colectivas
+           Retribución total
+           Código del convenio colectivo aplicable
+                  En el caso de contratos formativos se justificará: para los de formación en alternancia que la actividad desempeñada por la persona
+           trabajadora en la empresa usuaria está directamente relacionada con las actividades formativas que justifican la contratación laboral; y
+           para los de obtención de práctica profesional que el puesto de trabajo en la empresa usuaria permite la obtención de la práctica profesional
+           adecuada al nivel de estudios o de formación objeto del contrato.
+                  Informaciones previstas en el artículo 2 del Real Decreto 216/1999, de 5 de febrero, sobre disposiciones mínimas de seguridad y
+           salud en el trabajo en el ámbito de las empresas de trabajo temporal.
+                  Cuando la persona trabajadora preste servicios a bordo de una embarcación, deberá reflejarse el identificador de esta.
+
+                                                                         DURACIÓN DEL CONTRATO
+           Desde [COMPLETAR] Hasta
+                   Deberá indicarse la duración prevista del contrato de puesta a disposición.
+
+                                                                                PRECIO CONVENIDO
+
+             Cláusulas adicionales:
+                                                                                                                                                                  Verificable en https://www.boe.es
+
+              (Será nula la cláusula del contrato que prohíba la contratación de la persona trabajadora por la empresa usuaria a la
+           finalización del contrato de puesta a disposición).
+                                                                                                                                                                  cve: BOE-A-2024-24517
+
+             En [LUGAR], a [DÍA] de [MES] de 20 [COMPLETAR]
+
+                             Por la empresa de trabajo temporal [COMPLETAR] Por la empresa usuaria
+
+                                           (firma y sello) [COMPLETAR] (firma y sello)
+
+════════════════════════════════════════════════════════════════════════

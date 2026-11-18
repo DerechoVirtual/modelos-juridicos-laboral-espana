@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -57,7 +57,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -65,3 +65,50 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0334 · Pedir excedencia: carta
+
+- Año del modelo: 2017
+- Revisión 17-11-2026: 1 bloques de opciones sin texto dejados en blanco con sus rótulos; 3 campos de relleno marcados en blanco; 1 etiquetas sin dato marcadas en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Emisor
+Receptor
+Firmas
+
+Carta de solicitud de excedencia por alguna de las siguientes causas:
+
+- Excedencia voluntaria sin alegar causa
+
+- Excedencia para atender a un hijo menor de tres años
+
+- Excedencia para cuidar a un familiar (Cónyuge, pareja de hecho, familiar hasta el segundo grado de consanguinidad o afinidad o familiar consanguíneo de la pareja de hecho)
+
+- Excedencia forzosa por ejercicio de cargo público
+
+- Excedencia forzosa por ejercicio de cargo sindical
+
+- Excedencia forzosa por cumplimiento de un deber
+
+Modelo de carta actualizado conforme a la modificación del art. 46 ET por el art. 127 del RDL 5/2023
+
+A [COMPLETAR].
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+Muy Señores/as míos/as: [COMPLETAR]
+
+Por la presente les comunico mi decisión de ejercitar el derecho contemplado en el artículo 46 del Estatuto de los Trabajadores y, en consecuencia, disfrutar de un período de excedencia.
+
+[ELEGIR UNA OPCIÓN Y REDACTARLA: Excedencia voluntaria sin alegar causa / Excedencia para atender a un hijo menor de tres años / Excedencia para cuidar a un familiar / Excedencia forzosa por ejercicio de cargo público / Excedencia forzosa por ejercicio de cargo sindical / Excedencia forzosa por cumplimiento de un deber — el texto de cada opción no venía en el formulario original]
+
+Rogándole contestación, le saluda atentamente,
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+════════════════════════════════════════════════════════════════════════

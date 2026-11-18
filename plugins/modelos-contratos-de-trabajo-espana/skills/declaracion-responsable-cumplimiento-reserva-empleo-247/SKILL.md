@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -56,7 +56,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -64,3 +64,40 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0247 · Declaración responsable de cumplimiento de la reserva de empleo para personas con discapacidad
+
+- Año del modelo: 2018
+- Revisión 17-11-2026: 14 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+A LA OFICINA DE EMPLEO DE [COMPLETAR]
+DECLARO
+Firmas
+
+Dentro del primer trimestre de cada año, las empresas obligadas deben enviar a los servicios públicos de empleo de la provincia donde radique su sede social y a los de las provincias donde tengan centros de trabajo, una relación de los puestos de trabajo ocupados por trabajadores discapacitados.
+
+A LA OFICINA DE EMPLEO DE [COMPLETAR]
+
+D./Dña. [NOMBRE Y APELLIDOS], con DNI núm. [DNI/NIE], en nombre y representación de la mercantil [NOMBRE DEL REPRESENTADO/A], con domicilio social en [LOCALIDAD], NIF núm. [NIF], en calidad de [COMPLETAR],
+
+DECLARO
+
+Que la empresa [COMPLETAR] tiene contratadas a [COMPLETAR] personas con discapacidad, y al tener un plantilla de [COMPLETAR], cumple con los requisitos del artículo 42 del Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, y con las reglas sobre cuantificación de la obligación de reserva establecidas en la D.A. 1ª, del Real Decreto 364/2005, de 8 de abril, por el que se regula el cumplimiento alternativo con carácter excepcional de la cuota de reserva en favor de los trabajadores con discapacidad, a los efectos del cómputo del dos por ciento de trabajadores con discapacidad en empresas de 50 o más trabajadores.
+
+La relación de puestos de trabajo ocupados por trabajadores con discapacidad es la siguiente:
+
+Puesto de trabajo	Nombre trabajador	NIF	Provincia	Grado de discapacidad	Período de contratación
+
+El abajo firmante en nombre de la empresa [COMPLETAR] se hace plenamente responsable de la veracidad de los datos consignados en esta declaración.
+
+Y para que conste y surta los efectos oportunos, firmo la presente en [LUGAR], a [FECHA].
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+════════════════════════════════════════════════════════════════════════

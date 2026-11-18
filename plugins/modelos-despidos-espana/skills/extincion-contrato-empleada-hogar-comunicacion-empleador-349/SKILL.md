@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -58,7 +58,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -66,3 +66,46 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0349 · Extinción del contrato de empleada del hogar: comunicación del empleador
+
+- Año del modelo: 2017
+- Revisión 17-11-2026: 1 bloques de opciones sin texto dejados en blanco con sus rótulos; 5 campos de relleno marcados en blanco; 1 etiquetas sin dato marcadas en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Emisor
+Receptor
+Firmas
+
+Carta de la persona empleadora a la persona trabajadora al servicio del hogar familiar comunicándole la extinción de la relación laboral, por las causas recogidas en el art. 11 del RD RD 1620/2011.
+
+Modelo provisional de comunicación de la extinción de la relación laboral, conforme a la modificación del art. 11 del RD 1620/2011 producida por el RDL 16/2022, mientras no se publique el modelo oficial
+
+A [COMPLETAR].
+
+Muy Sr. mío/Sra. mía: [COMPLETAR]
+
+Por la presente le comunico mi decisión de extinguir del contrato de servicio del hogar familiar suscrito con usted en fecha [FECHA], conforme a lo establecido en artículo 11.2 del Real Decreto 1620/2011, de 14 de noviembre, por el que se regula la relación laboral de carácter especial del servicio del hogar familiar.
+
+La causa por la que se extingue su contrato de trabajo es:
+
+[ELEGIR UNA OPCIÓN Y REDACTARLA: Por disminución de los ingresos o incremento de los gastos de la unidad familiar / Por modificación sustancial de las necesidades de la unidad familiar / Por el comportamiento de la persona trabajadora / — y además elegir: Respetando el preaviso / Sin respetar el plazo de preaviso — el texto de cada opción no venía en el formulario original]
+
+En este mismo acto se pone a su disposición la indemnización legalmente prevista para este supuesto, que asciende a [IMPORTE] euros netos, cuantía equivalente al salario correspondiente a doce días por año de servicio, con el límite de seis mensualidades, así como las cantidades correspondientes a la liquidación de salarios devengados y no cobrados a la fecha de extinción del contrato, cuyo desglose consta en el recibo de liquidación y finiquito que se adjunta a la presente.
+
+Atentamente,
+
+Recibí
+
+Empleador
+
+Trabajador/a
+
+Firmado: D./Dña. [NOMBRE Y APELLIDOS] 	Firmado: D./Dña. [NOMBRE Y APELLIDOS]
+
+════════════════════════════════════════════════════════════════════════

@@ -36,8 +36,8 @@ El planteamiento del formulario está desfasado en algo. Corrígelo antes de red
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -59,7 +59,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -67,3 +67,35 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0067 · Pedir permiso por registro de pareja de hecho
+
+- Año del modelo: 2023
+- Revisión 17-11-2026: 6 campos de relleno marcados en blanco; 1 etiquetas sin dato marcadas en blanco
+- Avisos de la revisión: Permisos del art. 37.3 ET vigentes: 15 días naturales por matrimonio o registro de pareja de hecho; 5 días por accidente o enfermedad grave, hospitalización o intervención con reposo; 2 días por fallecimiento (+2 con desplazamiento); 1 día por traslado; hasta 4 días por imposibilidad de acceso (g); actos preparatorios de donación de órganos; y art. 37.9 (fuerza mayor familiar, 4 días retribuidos al año).
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Destinatorio
+Lugar y fecha
+Solicitud
+Firmas
+A la atención de [COMPLETAR]
+
+En [LUGAR], a [DÍA] de [MES] de [AÑO].
+
+Mediante el presente escrito le notifico que el próximo día [FECHA] voy a proceder a la constitución de pareja de hecho estable en el registro, correspondiéndome por ello disfrutar un permiso de [COMPLETAR] de acuerdo con lo establecido en el artículo 37.3 a) del ET y [COMPLETAR] comenzando el próximo día [FECHA].
+
+Lo que se le comunica para su conocimiento y adopción de las medidas necesarias que crea convenientes para la continuación del trabajo durante mi ausencia.
+
+Sin otro particular, le saluda atentamente.
+
+El/La trabajador/a
+
+Fdo.: [COMPLETAR]
+
+════════════════════════════════════════════════════════════════════════

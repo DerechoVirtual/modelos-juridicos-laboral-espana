@@ -35,8 +35,8 @@ El planteamiento del formulario está desfasado en algo. Corrígelo antes de red
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -55,7 +55,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -63,3 +63,44 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0007 · Certificado de ministro de culto evangélico y tiempo de actividad en España
+
+- Año del modelo: 2026
+- Revisión 17-11-2026: restos de formato retirados; notas del formulario agrupadas al final (1); 3 campos de relleno marcados en blanco; 1 etiquetas sin dato marcadas en blanco
+- Avisos de la revisión: RD 737/2026 (BOE-A-2026-19846) en vigor desde el 25-12-2026; la solicitud se presenta ante el INSS junto con la de la pensión o su revisión (art. 3).
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Firmas
+
+La acreditación de la condición de ministro de culto y del tiempo de desempeño de su actividad en España se efectuará mediante la certificación expedida por la iglesia o federación de iglesias respectiva, debidamente inscrita en el Registro de Entidades Religiosas del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, en la que el ministro hubiera desempeñado su actividad, con la conformidad de la comisión permanente de FEREDE, según el modelo siguiente.
+
+La inscripción de la entidad religiosa a la que perteneciera el ministro de culto en el Registro de Entidades Religiosas se comprobará por el Instituto Nacional de la Seguridad Social. En caso de obrar en poder del interesado la certificación de dicha inscripción podrá aportarse con la solicitud.
+
+– Iglesia o federación de iglesias que certifica:
+
+– Datos personales del ministro de culto que ejerció su actividad en la iglesia anterior o federación de iglesias:
+
+• Nombre y apellidos:
+• DNI/NIE:
+
+– Periodo de ejercicio de la actividad en España certificado: desde [COMPLETAR] hasta [COMPLETAR]
+
+Certificado expedido a efectos de acreditar la condición como ministro de culto de la Unión de Iglesias Cristianas Adventistas del Séptimo Día y el tiempo desempeñado en España con anterioridad al 1 de mayo de 1987, o, en su caso, la condición como ministro de culto de las iglesias pertenecientes a la Federación de Entidades Religiosas Evangélicas de España y el tiempo desempeñado en España con anterioridad al 1 de mayo de 1999, en virtud del Real Decreto 737/2026, de 23 de septiembre, sobre reconocimiento como cotizados a la Seguridad Social de los periodos de actividad ejercidos como ministros de culto de las iglesias pertenecientes a la Federación de Entidades Religiosas Evangélicas de España con anterioridad a su integración en el Régimen General de la Seguridad Social.
+
+En [LUGAR], a [FECHA].
+
+Conforme (FEREDE) (1)
+
+Firmado: [COMPLETAR]
+
+NOTAS DEL FORMULARIO
+
+(1) Esta certificación incluye la conformidad de la comisión permanente de FEREDE.
+
+════════════════════════════════════════════════════════════════════════

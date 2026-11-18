@@ -36,8 +36,8 @@ El planteamiento del formulario está desfasado en algo. Corrígelo antes de red
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -61,7 +61,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -69,3 +69,37 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0014 · Pedir permiso retribuido por fallecimiento de familiar en incendios forestales
+
+- Año del modelo: 2026
+- Revisión 17-11-2026: 3 citas normativas corregidas tras comprobarlas en el BOE; 1 puntualizaciones normativas añadidas en el texto; 5 campos de relleno marcados en blanco
+- Avisos de la revisión: RDL 20/2026 (BOE-A-2026-16543): aplicable a personas con domicilio en los municipios afectados (art. 1.3) y hasta el fin de la campaña de peligro alto de incendios de 2026; no se ha comprobado su convalidación.
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Firmas
+
+En virtud de lo establecido en el art. 4 del Real Decreto-ley 20/2026, de 29 de julio [NOTA DE REVISIÓN: Medida excepcional: solo para fallecimientos debidos a los incendios del art. 1 del RDL 20/2026 y hasta que concluya la campaña de peligro alto de incendios de 2026; fuera de ese supuesto el permiso del art. 37.3.b bis) ET es de dos días, ampliables en dos si hay desplazamiento. Fuente: RDL 20/2026, de 29 de julio, art. 4 y art. 1.1, BOE-A-2026-16543; ET (RDLeg 2/2015), BOE-A-2015-11430, art. 37.3.b bis).], por el que se establecen medidas urgentes de protección laboral y social frente a los incendios forestales, la duración del permiso del artículo 37.3.b bis) del texto refundido de la Ley del Estatuto de los Trabajadores por fallecimientos debidos a causas relacionadas con los incendios forestales que den lugar a la adopción de medidas de protección civil que afecten a la población, tales como evacuaciones, restricciones de acceso, confinamientos u otras de naturaleza análoga, hasta que concluya la campaña anual de peligro alto de incendios forestales del año 2026, se extenderá desde el hecho causante hasta los cinco días hábiles siguientes al del sepelio.
+
+Att.
+
+En [LUGAR], a [FECHA].
+
+Estimados/as señores/as,
+
+Por medio de la presente, y en virtud de lo establecido en el art. 4 del Real Decreto-ley 20/2026, de 29 de julio, por el que se establecen medidas urgentes de protección laboral y social frente a los incendios forestales, por medio de la presente les comunico que con fecha [FECHA] ha fallecido mi familiar [COMPLETAR] como consecuencia del incendio ocurrido en [COMPLETAR] y, por tanto, deseo disfrutar del permiso de cinco días hábiles expresamente regulado en el artículo citado (la duración del permiso del artículo 37.3.b bis) del Estatuto de los Trabajadores se extenderá desde el hecho causante hasta los cinco días hábiles siguientes al del sepelio).
+
+Lo que pongo en su conocimiento a los efectos legales oportunos.
+
+Atentamente,
+
+Fdo. Persona trabajadora
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+════════════════════════════════════════════════════════════════════════

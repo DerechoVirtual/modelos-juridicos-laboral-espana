@@ -35,8 +35,8 @@ El planteamiento del formulario está desfasado en algo. Corrígelo antes de red
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -67,7 +67,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -75,3 +75,33 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0376 · Aviso al trabajador de videovigilancia, control de jornada o geolocalización
+
+- Año del modelo: 2016
+- Revisión 17-11-2026: 1 citas normativas corregidas tras comprobarlas en el BOE; 1 puntualizaciones normativas añadidas en el texto; 1 bloques de opciones sin texto dejados en blanco con sus rótulos; 6 campos de relleno marcados en blanco
+- Avisos de la revisión: Separar las tres opciones: videovigilancia (art. 89 LOPDGDD), geolocalización (art. 90) y registro de jornada (art. 34.9 ET, con negociación o consulta previa a la RLT y conservación 4 años).
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Firmas
+
+El artículo 18 ET atribuye al empresario un control [NOTA DE REVISIÓN: El art. 18 ET regula solo los registros sobre la persona, taquillas y efectos. La videovigilancia y la geolocalización se amparan en el art. 20.3 ET y en los arts. 89-90 LOPDGDD (art. 20 bis ET); el registro de jornada es una obligación del art. 34.9 ET que se organiza por convenio, acuerdo de empresa o decisión del empresario previa consulta con la RLT. Fuente: RDLeg 2/2015 (ET), BOE-A-2015-11430, arts. 18, 20.3, 20 bis y 34.9; LO 3/2018 (LOPDGDD), BOE-A-2018-16673, arts. 89-90.] que excede del que deriva de su posición en el contrato de trabajo. Es un control vinculado a la defensa del patrimonio empresarial, del patrimonio de otros trabajadores de la empresa y al control de la actividad laboral. Pero el empresario tiene la obligación de informar a las personas trabajadoras sobre la existencia de cámaras de vigilancia (videovigilancia), sistemas de registro de la jornada o geolocalización.
+
+La LOPDGDD (arts. 89 y 90) obliga [NOTA DE REVISIÓN: La ley es de 2018; precisar los artículos. Fuente: LO 3/2018 (LOPDGDD), BOE-A-2018-16673, arts. 89 y 90.] a informar con carácter previo a los representantes de los trabajadores sobre la instalación de sistemas de videovigilancia. También a los trabajadores debiendo instalarse además un cartel informativo. En base al RGPD y doctrina judicial debe informarse claramente sobre la finalidad: las funciones de control empresarial sólo pueden satisfacer un derecho o un interés legítimo del empleador. Si se pretende una finalidad sancionadora ante un incumplimiento del trabajador este punto debe ser informado por el empleador. Admás, la medida de control sólo será válida si supera el juicio de proporcionalidad (idoneidad, necesidad y proporcionalidad).
+
+En [LUGAR], a [FECHA].
+
+La empresa [COMPLETAR], con domicilio en [LOCALIDAD], informa a la persona trabajadora D./Dña. [NOMBRE Y APELLIDOS], que presta sus servicios en la misma,
+
+[ELEGIR UNA OPCIÓN Y REDACTARLA: Instalación de sistema de videovigilancia / Instalación de sistema para el registro de jornada / Instalación de sistema de geolocalización en terminales móviles o vehículos de empresa / La empresa	La persona trabajadora — el texto de cada opción no venía en el formulario original]
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+D./Dña. [NOMBRE Y APELLIDOS]
+
+════════════════════════════════════════════════════════════════════════

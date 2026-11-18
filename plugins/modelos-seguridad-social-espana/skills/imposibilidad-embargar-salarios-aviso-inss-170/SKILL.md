@@ -29,8 +29,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -61,7 +61,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -69,3 +69,38 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0170 · Imposibilidad de embargar salarios: aviso al INSS
+
+- Año del modelo: 2020
+- Revisión 17-11-2026: 1 bloques de opciones sin texto dejados en blanco con sus rótulos; 13 campos de relleno marcados en blanco; 1 huecos del original que se habían perdido sin marca, marcados (Nº DE PROCEDIMIENTO)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Receptor
+EXPONE
+Firmas
+
+Comunicación al INSS de la imposibilidad de practicar el embargo del salario porque la persona afectada ya no trabaja en la empresa o porque ya existe una diligencia de embargo previa sobre la persona trabajadora
+
+AL INSTITUTO NACIONAL DE LA SEGURIDAD SOCIAL
+
+D/.Dña. [NOMBRE Y APELLIDOS], en nombre y representación de [NOMBRE DEL REPRESENTADO/A], con NIF [NIF] y domicilio en [LOCALIDAD], en su calidad de representante legal como [COMPLETAR], según se acredita mediante la escritura de poder que a este escrito se acompaña, y con teléfono [TELÉFONO] y correo electrónico [CORREO ELECTRÓNICO], ante ese Organismo comparece y
+
+EXPONE
+
+Que con fecha [FECHA] se ha notificado a la mercantil a la que represento Diligencia de embargo de salarios del trabajador/a de esta empresa D./Dña. [NOMBRE Y APELLIDOS], de fecha [FECHA], expediente número [Nº DE EXPEDIENTE].
+
+[ELEGIR UNA OPCIÓN Y REDACTARLA: Si la persona ya no trabaja en la empresa / Si existe otra diligencia de embargo previa — el texto de cada opción no venía en el formulario original]
+
+Por lo expuesto,
+
+SOLICITA A LA DIRECCIÓN PROVINCIAL DEL INSS DE que teniendo por presentado este escrito, lo admita, tenga por hechas las manifestaciones en él contenidas y por cumplido el requerimiento efectuado por Diligencia de fecha [FECHA] dictado en el Expediente nº [Nº DE PROCEDIMIENTO]
+
+En [LUGAR], a [FECHA].
+
+════════════════════════════════════════════════════════════════════════

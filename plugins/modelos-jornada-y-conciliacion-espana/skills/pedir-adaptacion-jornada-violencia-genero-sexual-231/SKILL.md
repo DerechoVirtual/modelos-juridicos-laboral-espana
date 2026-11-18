@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -53,7 +53,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -61,3 +61,34 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0231 · Pedir adaptación de jornada por violencia de género, sexual o terrorismo
+
+- Año del modelo: 2019
+- Revisión 17-11-2026: 1 desplegables y casillas convertidos en elección en blanco; 3 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Firmas
+
+Las personas trabajadoras que tengan la consideración de víctimas de violencia de género, de violencia sexual o de víctimas del terrorismo tienen derecho, para hacer efectiva su protección o su derecho a la asistencia social integral, a la reducción de la jornada con disminución proporcional del salario o a la reordenación del tiempo de trabajo, mediante adaptación del horario, aplicación de horario flexible u otras formas de ordenación del tiempo de trabajo utilizadas en la empresa; además, pueden realizar su trabajo total o parcialmente a distancia, o dejar de hacerlo si esa fuera la modalidad implantada, siempre que sea compatible con el puesto y las funciones desarrolladas, conforme al art. 37.8 ET.
+
+Att. Director/a de Recursos Humanos
+
+En [COMPLETAR]
+
+Muy Señor/a mío/a,
+
+En virtud de lo establecido en el art. 37.8 ET y de [COMPLETAR], cuya copia testimoniada se adjunta con la presente solicitud, que determina mi condición de víctima de [ELEGIR: violencia de género / violencia sexual / terrorismo], por medio de la presente vengo a solicitar el cambio de turno de trabajo para atender de manera más adecuada a mis hijos.
+
+Le ruego que acusen recibo de mi solicitud para poder iniciar el período de negociación con la organización con el fin de poder llegar a un acuerdo sobre los términos concretos en relación con esta petición.
+
+Quedando a la espera de su contestación le saluda atentamente,
+
+Fdo.: D./Dña. [NOMBRE Y APELLIDOS]
+
+════════════════════════════════════════════════════════════════════════

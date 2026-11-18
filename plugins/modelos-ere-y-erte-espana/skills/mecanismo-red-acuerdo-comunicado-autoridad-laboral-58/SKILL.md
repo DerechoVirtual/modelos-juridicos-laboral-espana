@@ -37,8 +37,8 @@ El planteamiento del formulario está desfasado en algo. Corrígelo antes de red
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -63,7 +63,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -71,3 +71,40 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0058 · Mecanismo RED: acuerdo comunicado a la autoridad laboral
+
+- Año del modelo: 2023
+- Revisión 17-11-2026: 3 desplegables y casillas convertidos en elección en blanco; 2 desplegables convertidos en elección en blanco; 8 campos de relleno marcados en blanco
+- Avisos de la revisión: ERTE: art. 47 ET en redacción del RDL 8/2024 (vigente 30-11-2024): consultas de hasta 15 días (7 si menos de 50 personas), fuerza mayor del 47.5 y 47.6 (incluida la imposibilidad de acceso tras los 4 días del 37.3.g), reducción del 10 al 70 %; Mecanismo RED en el art. 47 bis y RD 608/2023.
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+EXPONE
+Firmas
+
+En el plazo de quince días naturales desde la finalización del periodo de consultas, si este concluye con acuerdo, la empresa lo remitirá íntegramente a la autoridad laboral, adjuntando las actas que permitan acreditar la celebración de las reuniones mantenidas durante el periodo de consultas y su contenido.
+
+El acuerdo y las actas aportadas a la autoridad laboral deberán estar firmadas por todas las personas integrantes de la comisión negociadora.
+
+AL/A LA SR./SRA. DELEGADO/A TERRITORIAL DE TRABAJO DE [COMPLETAR]
+
+D./Dña. [NOMBRE Y APELLIDOS], mayor de edad, provisto de DNI número [DNI/NIE], actuando en nombre y representación de la entidad [COMPLETAR], conforme tiene acreditado en el expediente de [ELEGIR: suspensión de contratos de trabajo / reducción de jornada] núm. abierto en esa Delegación Territorial, ante V.I. comparece y,
+
+EXPONE
+
+Que las partes han alcanzado un acuerdo durante el periodo de consultas, en el procedimiento de [ELEGIR: suspensión de contratos de trabajo / reducción de jornada] por las causas previstas en el acuerdo de activación del Mecanismo RED, en su modalidad [ELEGIR: cíclica / sectorial] de fecha [FECHA] iniciado el [COMPLETAR] y comunicado debidamente a esa autoridad laboral, que obra en esa Delegación con el número de expediente indicado.
+
+Que, dentro del plazo de 15 días establecido en el artículo 11 del Real Decreto 608/2023, de 11 de julio, se adjunta a este escrito el acuerdo íntegro alcanzando junto con todas las actas, firmadas por la comisión negociadora, de las reuniones mantenidas en el período de consultas
+
+Por lo que,
+
+SOLICITA DE V.I. que, teniendo por presentado este escrito, tenga por efectuada comunicación del acuerdo alcanzado en la empresa sobre [ELEGIR: suspensión de contratos de trabajo / reducción de jornada] por las causas previstas en el acuerdo de activación del Mecanismo RED, en su modalidad [ELEGIR: cíclica / sectorial] de fecha [FECHA] por parte de la empresa que represento.
+
+En [COMPLETAR].
+
+════════════════════════════════════════════════════════════════════════

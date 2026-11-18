@@ -36,8 +36,8 @@ El planteamiento del formulario está desfasado en algo. Corrígelo antes de red
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -57,7 +57,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -65,3 +65,92 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0386 · Registro de contratos de puesta a disposición (CPD)
+
+- Año del modelo: 2015
+- Revisión 17-11-2026: 6 campos de relleno marcados en blanco
+- Avisos de la revisión: NO VERIFICADO: la Orden TES/1324/2024, de 20 de noviembre, que se cita como norma de actualización, no se ha localizado en el BOE por su título; comprobar su referencia.
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Relación de contratos de puesta a disposición que las ETT están obligadas a remitir mensualmente por medios electrónicos al Registro de Empresas de Trabajo Temporal de la autoridad laboral competente..
+
+Se cumplimentará una relación por cada centro de trabajo de la empresa de trabajo temporal. Esta relación se cumplimentará y enviará aun cuando la empresa no haya formalizado contratos de puesta a disposición en el período, indicando dicha circunstancia y anotando el valor cero en las columnas de tipos de contratos.
+
+Formulario actualizado según la Orden TES/1324/2024, de 20 de noviembre, por la que se desarrolla el Real Decreto 417/2015, de 29 de mayo, por el que se aprueba el Reglamento de las Empresas de Trabajo Temporal
+
+Celebrados en el mes de [COMPLETAR] de [COMPLETAR]
+
+Identificación de la empresa de trabajo temporal
+Nombre o razón social	Nº [Nº] de autorización
+
+NIF
+
+(9 posiciones)
+
+Código cuenta cotización S. Social
+
+(11 posiciones) [COMPLETAR]
+
+Nº orden del centro
+
+(máximo 3 posiciones)
+
+	Nº [Nº] de personas trabajadoras puestas a disposición
+
+Dirección del centro de trabajo
+Identificación de la/s empresa/s usuaria/s
+Nombre o razón social de la empresa usuaria	Actividad económica de la empresa usuaria
+
+NIF
+
+(9 posiciones)
+
+Código cuenta cotización Seg. Social
+
+(11 posiciones)
+
+Número de contratos de puesta a disposición (CPD)
+
+(indique en cada caso si el contrato de trabajo es Fijo Discontinuo) Para marcar la casilla FD debe haber cumplimentado previamente el dato numérico de cada tipo de CPD e indicar en cada caso cuántos de ellos corresponden a personas trabajadoras con contrato fijo discontinuo)
+
+	Descripción literal actividad	Código CNAE-2025			Total (Suma de los tipos de CPD: 1+2+3+4 +5)
+
+Tipo 1
+
+Circunstancias de la producción
+
+(incremento ocasional e imprevisible de la actividad y oscilaciones que generan un desajuste temporal entre el empleo estable disponible y el que se requiere)
+
+Tipo 2
+
+Circunstancias de la producción
+
+(situaciones ocasionales, previsibles y que tengan una duración reducida y delimitada)
+
+Tipo 3
+
+Sustitución de una persona trabajadora con derecho a reserva de puesto de trabajo, o para completar la jornada reducida de otra o para la cobertura durante un proceso de selección
+
+Tipo 4
+
+Para la obtención de práctica profesional
+
+Tipo 5
+
+De formación en alternancia
+
+N.º CPD	FD Para marcar la casilla FD debe haber cumplimentado previamente el dato numérico de cada tipo de CPD e indicar en cada caso cuántos de ellos corresponden a personas trabajadoras con contrato fijo discontinuo)	N.º CPD	FD Para marcar la casilla FD debe haber cumplimentado previamente el dato numérico de cada tipo de CPD e indicar en cada caso cuántos de ellos corresponden a personas trabajadoras con contrato fijo discontinuo)	N.º CPD	FD Para marcar la casilla FD debe haber cumplimentado previamente el dato numérico de cada tipo de CPD e indicar en cada caso cuántos de ellos corresponden a personas trabajadoras con contrato fijo discontinuo)	N.º CPD	FD Para marcar la casilla FD debe haber cumplimentado previamente el dato numérico de cada tipo de CPD e indicar en cada caso cuántos de ellos corresponden a personas trabajadoras con contrato fijo discontinuo)	N.º CPD	FD Para marcar la casilla FD debe haber cumplimentado previamente el dato numérico de cada tipo de CPD e indicar en cada caso cuántos de ellos corresponden a personas trabajadoras con contrato fijo discontinu)o
+
+TOTAL CONTRATOS DE PUESTA A DISPOSICIÓN
+
+En [LUGAR], a [FECHA].
+
+Firma y sello de la empresa
+
+════════════════════════════════════════════════════════════════════════

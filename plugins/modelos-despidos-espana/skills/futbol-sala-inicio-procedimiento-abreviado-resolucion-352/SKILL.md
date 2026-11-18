@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -49,7 +49,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -57,3 +57,56 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0352 · Fútbol sala: inicio del procedimiento abreviado de resolución contractual anticipada
+
+- Año del modelo: 2017
+- Revisión 17-11-2026: 8 campos de relleno marcados en blanco; 1 etiquetas sin dato marcadas en blanco; 1 huecos del original que se habían perdido sin marca, marcados (NOMBRE Y APELLIDOS)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Parte
+DICE:
+Firmas
+
+A LA COMISIÓN MIXTA DEL CONVENIO PROCEDIMIENTO ABREVIADO DE RESOLUCIÓN CONTRACTUAL ANTICIPADA
+
+Don [NOMBRE Y APELLIDOS], mayor de edad, con documento nacional de identidad número, y domicilio a efectos de notificaciones en [DOMICILIO A EFECTOS DE NOTIFICACIONES], ante la Comisión Mixta comparece y, como mejor procede en Derecho,
+
+DICE:
+
+Primero. Con fecha [FECHA], el compareciente suscribió contrato de trabajo con el Club [COMPLETAR], como jugador de fútbol sala para la/s temporada/s [COMPLETAR] (Documento n.° 1).
+
+Que en dicho contrato de trabajo se pactó el siguiente régimen de abono del salario fijo del compareciente.
+
+- -Temporada /:
+
+- -Temporada /:
+
+Segundo. Que actualmente el Club denunciado adeuda al que suscribe, desde las fechas que se establecen, las cantidades por los conceptos que a continuación se relacionan:
+
+- [COMPLETAR]
+
+- [COMPLETAR]
+
+La suma total de las cantidades adeudadas asciende a los referidos, los cuales se vienen a reclamar ante esa Comisión Mixta por medio de la presente denuncia.
+
+Se adjunta al presente escrito la siguiente documentación justificativa de las obligaciones de pago incumplidas por el Club.
+
+Tercero. Que esta parte, al amparo de lo establecido en el Convenio Colectivo AJFS-LNFS, se acoge libre y voluntariamente al procedimiento Abreviado de extinción contractual anticipada y formula la presente denuncia contra el citado Club o Sociedad Anónima Deportiva demandada, instando ante la Comisión Mixta la declaración de la terminación de la relación de trabajo por impago y el abono de las compensaciones previstas en dicho Acuerdo.
+
+Cuarto. Que el compareciente, al acogerse al Procedimiento Abreviado de extinción contractual anticipada se somete a lo dispuesto en el mismo y abreviado declara:
+
+a) Su voluntad inequívoca de someterse a la resolución que emita la Comisión Mixta respecto de la extinción contractual anticipada de su relación laboral con el Club que sea su empleador, aceptando las indemnizaciones y términos de las mismas que la Comisión Mixta establezca, en su caso, como consecuencia de la estimación de la terminación anticipada de la relación laboral renunciando a reclamar cantidades compensatorias por los mismos conceptos y con la misma naturaleza.
+
+Suplico a La Comisión Mixta LNFS-AJFS, tenga por presentado este escrito, con los documentos que le acompañan, se sirva admitirlos y, previo los trámites reglamentarios oportunos, declare la resolución anticipada de la relación contractual que me vincula con el Club.
+
+Ello es justicia que pido en [COMPLETAR], a de [COMPLETAR]
+
+Fdo.: [COMPLETAR]
+
+════════════════════════════════════════════════════════════════════════

@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -63,7 +63,7 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -71,3 +71,58 @@ Compruébalas **todas** con `buscar_articulo` antes de dejarlas en el escrito. S
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0348 · Desistimiento del alto directivo: comunicación a la empresa
+
+- Año del modelo: 2017
+- Revisión 17-11-2026: 1 desplegables y casillas convertidos en elección en blanco; 1 bloques de opciones sin texto dejados en blanco con sus rótulos; 1 bloques de alternativas señalados; 4 campos de relleno marcados en blanco; 1 etiquetas sin dato marcadas en blanco; 1 huecos del original que se habían perdido sin marca, marcados (Nº)
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+Emisor
+Receptor
+Firmas
+
+Modelo de comunicación del alto directivo a la empresa dando por extinguido el contrato de relación laboral especial de alta dirección, en el que puede seleccionar de forma individual:
+
+- Extinción con respeto del preaviso
+
+- Extinción sin respeto del preaviso
+
+Póngase especial atención en el ámbito de aplicación de la relación laboral especial de alta dirección, para evitar que se pueda calificar como relación laboral ordinaria y que mantengan validez las cláusulas que mejoren la regulación estatutaria.
+
+La legislación aplicable de forma supletoria en esta relación laboral es la civil y mercantil.
+
+Dada la especial relación de confianza que se genera en este tipo de trabajos es importante analizar la necesidad de pactos de no concurrencia y de permanencia en la empresa.
+
+Recordar finalmente que es fuente de sorpresas para el alto cargo, en la extinción del contrato por desistimiento del empresario, el desconocimiento de la indemnización legal hasta el momento del cese, siendo conveniente establecer en el contrato la cláusula especifica al respecto.
+
+En [LUGAR], a [FECHA].
+
+Muy Sres./as míos/as: [COMPLETAR]
+
+Por la presente les comunico que,
+
+[ELEGIR UNA DE LAS ALTERNATIVAS QUE SIGUEN Y SUPRIMIR LAS DEMÁS]
+
+al amparo [ELEGIR: del pacto / de la cláusula] núm. [Nº] del contrato especial de alta dirección suscrito con esta empresa en fecha [FECHA], y del artículo 10.1 del Real Decreto 1382/1985, de 1 de agosto, he tomado la decisión de rescindir el referido contrato.
+
+debido a las discrepancias surgidas en los últimos días con el Consejo de Administración, respecto a los métodos a seguir para lograr los objetivos comerciales trazados para el presente año, he decidido extinguir la relación laboral especial como alto cargo, que me vincula con la empresa.
+
+[ELEGIR UNA OPCIÓN Y REDACTARLA: Respetando el preaviso / Sin respetar el preaviso — el texto de cada opción no venía en el formulario original]
+
+Atentamente,
+
+Recibí
+
+Persona trabajadora
+
+Representante legal de la empresa
+
+Firmado: D./Dña. [NOMBRE Y APELLIDOS] 	Firmado: D./Dña. [NOMBRE Y APELLIDOS]
+
+════════════════════════════════════════════════════════════════════════

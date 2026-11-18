@@ -30,8 +30,8 @@ Cita solo lo que devuelva Jurisprudenciator (artículo vigente, ECLI o ROJ, dato
 
 ## Qué tienes en esta carpeta
 
-- `formulario.md`: el texto del formulario revisado, con las marcas de la revisión.
-- `marco.md`: guía del tema con las reglas y plazos vigentes comprobados en el BOE.
+- «Texto del formulario», al final de este fichero: el texto del formulario revisado, con las marcas de la revisión.
+- `../indice/marco.md` (en la carpeta de la skill `indice` de este plugin): guía del tema con las reglas y plazos vigentes comprobados en el BOE.
 
 ## Datos que hay que pedir al usuario
 
@@ -55,7 +55,7 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 ## Flujo
 
 1. **Paso 0**: comprueba Jurisprudenciator (arriba).
-2. Lee `formulario.md` entero, con su cabecera, y la parte de `marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
+2. Lee entero el «Texto del formulario» del final de este fichero, con su cabecera, y la parte de `../indice/marco.md` que afecte al caso (plazos, órgano, procedimiento, conciliación o mediación previa, reclamación previa o vía administrativa, según el caso).
 3. Pide los datos de la lista. Lo que el usuario no sepa se queda como hueco visible.
 4. Decide las elecciones y los párrafos opcionales según los hechos. Redacta las partes que el original no traía.
 5. Aplica los avisos y las notas de revisión. Comprueba con `buscar_articulo` cada norma citada y, si citas jurisprudencia, localízala con `buscar_sentencias` o `buscar_por_cita` y léela con `leer_sentencias`.
@@ -63,3 +63,61 @@ No cita artículos concretos. Si añades alguno, compruébalo con `buscar_articu
 7. Antes de entregarlo, pasa `verificar_escrito` con las frases del escrito que citan normas o sentencias y corrige lo que señale.
 8. Entrega el escrito en **Word (.docx)** con formato de escrito (usa la skill de Word disponible) y, si es corto, también en el chat.
 9. Cierra con: datos pendientes, partes redactadas por ti, normas y sentencias comprobadas con Jurisprudenciator y, si algún dato sale de internet, cuál es y su enlace.
+
+## Texto del formulario
+
+### Formulario 0046 · Novación de fijo discontinuo a indefinido ordinario: acuerdo
+
+- Año del modelo: 2024
+- Revisión 17-11-2026: 24 campos de relleno marcados en blanco
+
+> Cómo leerlo: [EN MAYÚSCULAS] = dato que hay que rellenar; [ELEGIR: a / b] = elegir una opción y borrar las demás; [OPCIONAL — incluir si procede] = el párrafo siguiente solo si encaja en el caso; [NOTA DE REVISIÓN: …] = corrección o aviso normativo de la revisión, no forma parte del escrito.
+
+---
+
+REUNIDOS
+MANIFIESTAN
+CLAUSULAS
+Firmas
+
+Acuerdo entre empresa y persona trabajadora de novación contractual de un contrato de trabajo fijo discontinuo a uno indefinido a tiempo completo.
+
+En [LUGAR], a [FECHA].
+
+REUNIDOS
+
+De una parte, D./Dña. [NOMBRE Y APELLIDOS], mayor de edad, actuando en representación de [NOMBRE DEL REPRESENTADO/A] en su calidad de [COMPLETAR], con domicilio en [LOCALIDAD] y NIF nº [NIF], (en adelante, la Empresa).
+
+Y de otra, D./Dña. [NOMBRE Y APELLIDOS], mayor de edad, con domicilio en [LOCALIDAD], provisto/a de DNI nº [DNI/NIE], (en adelante, la persona trabajadora).
+
+Ambas partes se reconocen, la primera en la representación que ostenta y la segunda en su propio nombre y derecho, mutua y plena capacidad para otorgar el presente documento de ACUERDO DE NOVACIÓN DEL CONTRATO DE TRABAJO, y
+
+MANIFIESTAN
+
+I.- Las partes tienen suscrito un contrato de trabajo, de fecha [FECHA], de carácter indefinido fijo discontinuo, contrato que al día de hoy está vigente.
+
+II.- La persona trabajadora está percibiendo actualmente un salario fijo bruto anual de [IMPORTE] euros, incluidos todos los conceptos y realiza una jornada de [COMPLETAR].
+
+III.- Ambas partes están interesadas en transformar el contrato de trabajo fijo discontinuo en un contrato indefinido de carácter ordinario y por ello firman el presente acuerdo en base a las siguientes
+
+CLAUSULAS
+
+PRIMERA.- Las partes acuerdan convertir el actual contrato fijo discontinuo de la persona trabajadora en un contrato indefinido común a jornada [COMPLETAR], que tendrá efectos desde el día [FECHA].
+
+SEGUNDA.- La nueva jornada de trabajo será de [Nº] horas al [COMPLETAR] prestadas de [COMPLETAR] a [COMPLETAR] en horario de [COMPLETAR], aplicándose, en todo caso, el calendario laboral de la Empresa.
+
+TERCERA.- La persona trabajadora percibirá el salario anual correspondiente a su Grupo y Nivel Profesional establecido en el Convenio Colectivo de [COMPLETAR].
+
+La nueva retribución tendrá efectos a partir del [COMPLETAR].
+
+CUARTA.- El presente acuerdo se adjuntará al contrato de trabajo celebrado entre las partes en fecha [FECHA], que quedará modificado conforme a lo así pactado, manteniéndose el resto de condiciones laborales actuales de la persona trabajadora.
+
+Y para que conste, firman el presente documento, por duplicado, en el lugar y fecha al inicio consignados.
+
+LA EMPRESA
+
+EL/LA TRABAJADOR/A
+
+D./Dña. [NOMBRE Y APELLIDOS] 	D./Dña. [NOMBRE Y APELLIDOS]
+
+════════════════════════════════════════════════════════════════════════
