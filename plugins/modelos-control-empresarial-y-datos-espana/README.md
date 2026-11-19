@@ -63,3 +63,28 @@ Al terminar, abre una conversación nueva para que aparezcan sus skills.
 
 La guía del tema, con las reglas y plazos vigentes comprobados en el BOE, es común a todas las skills del plugin y está en `skills/indice/marco.md`.
 
+## Lista completa de formularios
+
+Cada formulario es una skill. Puedes pedirlo con tus palabras o llamarlo por su nombre (`/modelos-control-empresarial-y-datos-espana:<skill>`). Son 11, agrupados por tipo de escrito:
+
+- **Índice del plugin** (`indice`): te ayuda a elegir el formulario adecuado cuando no sabes cuál usar; le cuentas el caso y te propone uno, o dos o tres para que elijas.
+
+### Contratos, cláusulas y anexos (4)
+
+- **Confidencialidad, control de medios y desconexión digital: cláusula** (`confidencialidad-control-medios-desconexion-digital-173`). Cláusula del contrato de trabajo sobre confidencialidad, control empresarial de los medios digitales y derecho a la desconexión digital, que debe ajustarse a la política interna y a la participación de la representación legal.
+- **Información sobre protección de datos en la geolocalización: cláusula** (`informacion-sobre-proteccion-datos-geolocalizacion-252`). Cláusula informativa para el trabajador sobre el uso de sistemas de geolocalización de la empresa, con su finalidad, base legal y derechos, y con información a la representación de los trabajadores.
+- **Protección de datos en contratos con empresa subcontratista: cláusula** (`proteccion-datos-contratos-empresa-subcontratista-251`). Cláusula de protección de datos para el contrato con una empresa subcontratista que accede a datos personales por cuenta de la contratante, y que debe plantearse conforme a la normativa de encargados del tratamiento.
+- **Protección de datos en contratos de trabajo: cláusula** (`proteccion-datos-contratos-trabajo-clausula-172`). Cláusula para incluir en los contratos de trabajo con la información y las garantías sobre protección de datos personales de los trabajadores, adaptada al tratamiento que hace la empresa.
+
+### Cartas y comunicaciones a la plantilla (3)
+
+- **Aviso al trabajador de videovigilancia, control de jornada o geolocalización** (`aviso-trabajador-videovigilancia-control-jornada-376`). Aviso de la empresa al trabajador sobre el uso de videovigilancia, control de jornada o geolocalización, con la información que exige la normativa de protección de datos y de derechos digitales.
+- **Aviso emergente sobre el uso laboral de los medios de la empresa** (`aviso-emergente-sobre-uso-laboral-medios-empresa-223`). Texto de aviso que aparece en pantalla a los empleados para informarles de que los medios informáticos de la empresa son de uso laboral y de que puede controlarlos.
+- **Instalación de cámaras de videovigilancia: aviso a la representación de los trabajadores** (`instalacion-camaras-videovigilancia-aviso-representacion-253`). Comunicación de la empresa a la representación de los trabajadores para informarle de la instalación de cámaras de videovigilancia, con su finalidad y ubicación, antes de ponerlas en funcionamiento.
+
+### Actas, acuerdos, planes y protocolos (4)
+
+- **Código de conducta en la relación empresa-trabajador** (`codigo-conducta-relacion-empresa-trabajador-232`). Código que fija las normas de comportamiento y los valores que deben respetar los trabajadores en la empresa, como base para exigir su cumplimiento y, en su caso, para aplicar el régimen disciplinario.
+- **Información sobre protección de datos a los empleados** (`informacion-sobre-proteccion-datos-empleados-222`). Documento con el que la empresa informa a sus empleados sobre el tratamiento de sus datos personales: finalidades, bases legales, destinatarios, plazos de conservación y ejercicio de derechos.
+- **Normas de uso del sistema informático y las comunicaciones electrónicas** (`normas-uso-sistema-informatico-comunicaciones-239`). Normas internas que regulan el uso por los trabajadores del ordenador, el correo electrónico e internet de la empresa, y los límites y controles que esta puede aplicar.
+- **Vestimenta en la empresa: código** (`vestimenta-empresa-codigo-233`). Normas internas de la empresa sobre la vestimenta que deben llevar los trabajadores en el puesto de trabajo, para entregar a la plantilla y fijar criterios claros.
